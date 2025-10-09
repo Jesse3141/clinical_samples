@@ -19,7 +19,7 @@ data files:
 3. experiment_data.csv- a file with on every experiment in the relevant data.
 4. response_collumn_shortlist.csv - a file of the collumns that i suspect have clinical response data. it lists the name, how many rows aren't empty and shows all the differnet unique values that there were in that collumn. 
 4. metadata_HOMO_SAPIENS.parquet - the full original metadata file. **do not open!! takes 40GB of RAM**. parquet is a very efficent format for storing files with lots of empty cells. 
-
+**note**: to access the main metadata parquet (unecessary here), **git LFS is reuqired**: `https://git-lfs.com/`
 hints:
 not a cell line: which collumns might inidicate a ceall line? which are probably realted to a person?
 use the the experiment_accession collumn: use the all_gse_annotated to add collumns of experiment title, summary and overall design. 
