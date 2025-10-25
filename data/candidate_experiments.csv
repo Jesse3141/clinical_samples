@@ -1,0 +1,703 @@
+experiment_accession,n_samples,avg_primary_score,avg_cell_line_score,avg_net_score,avg_cancer_text,avg_cancer_cols,series_title,series_summary,series_overall_design,series_relation,series_n_samples,series_platform_id,series_is_superseries
+GSE33658,22,21.0,,21.0,9.0,1.0,"A phase II neoadjuvant trial of anastrozole (A), fulvestrant (F) and gefitinib (I - iressa) in patients with newly diagnosed estrogen receptor positive breast cancer","Endocrine therapy in patients with breast cancer can be limited by the problem of resistance. Preclinical studies suggest that complete blockade of the estrogen receptor (ER) combined with inhibition of the epidermal growth factor receptor (EGFR) can overcome endocrine resistance. We tested this hypothesis in a phase II neoadjuvant trial of anastrozole and fulvestrant combined with gefitinib in postmenopausal women with newly diagnosed ER-positive breast cancer. After a baseline tumor core biopsy, patients were randomized to receive anastrozole and fulvestrant (AF) or anastrozole, fulvestrant, and gefitinib (AFG) for 3 weeks.  After a second biopsy at 3 weeks, all patients received AFG for 4 months and surgery was done if the tumor was operable. The primary endpoint was best clinical response by RECIST criteria and secondary endpoints were toxicity and change in biomarkers. The study closed after 15 patients were enrolled because of slow accrual. Median patient age was 67 years and median clinical tumor size was 7 cm. Four patients had metastatic disease present. Three patients withdrew before response was assessed. In the remaining twelve patients, there were two complete clinical responses (17%), three partial responses (25%), five had stable disease (41%), and two (17%) had progressive disease. Most common adverse events were rash in four patients, diarrhea in four, joint symptoms in three, and abnormal liver function tests in three. There were no grade 4 toxicities and all toxicities were reversible. At 3 weeks, cell proliferation as measured by Ki-67 was significantly reduced in the AFG group (p value= 0.01) with a parallel reduction in the expression of the Cyclin D1 (p value=0.02). RNA microarray data showed a corresponding decrease in the expression of cell cycle genes. These results suggest that AFG was an effective neoadjuvant therapy and consistently reduced proliferation in ER-positive tumors.","We tested this hypothesis in a phase II neoadjuvant trial of anastrozole and fulvestrant combined with gefitinib in postmenopausal women with newly diagnosed ER-positive breast cancer. After a baseline tumor core biopsy, patients were randomized to receive anastrozole and fulvestrant (AF) or anastrozole, fulvestrant, and gefitinib (AFG, also known as AFI) for 3 weeks.  After a second biopsy at 3 weeks, all patients received AFG for 4 months and surgery was done if the tumor was operable. The primary endpoint was best clinical response by RECIST criteria and secondary endpoints were toxicity and change in biomarkers. The study closed after 15 patients were enrolled because of slow accrual. Median patient age was 67 years and median clinical tumor size was 7 cm. Four patients had metastatic disease present. Three patients withdrew before response was assessed. In the remaining twelve patients, there were two complete clinical responses (17%), three partial responses (25%), five had stable disease (41%), and two (17%) had progressive disease. Most common adverse events were rash in four patients, diarrhea in four, joint symptoms in three, and abnormal liver function tests in three. There were no grade 4 toxicities and all toxicities were reversible. At 3 weeks, cell proliferation as measured by Ki-67 was significantly reduced in the AFG group (p value= 0.01) with a parallel reduction in the expression of the Cyclin D1 (p value=0.02). RNA microarray data showed a corresponding decrease in the expression of cell cycle genes. These results suggest that AFG was an effective neoadjuvant therapy and consistently reduced proliferation in ER-positive tumors.",,22,GPL570,0
+GSE24742,23,21.0,,21.0,0.0,1.0,Effects of Rituximab on global gene expression profiles in the RA synovium,"Objective: Rituximab displays therapeutic benefits in the treatment of rheumatoid arthritis (RA) patients resistant to TNF blockade. However, the precise role of B cells in the pathogenesis of RA is still unknown. In this study we investigated the global molecular effects of rituximab in synovial biopsies obtained from anti-TNF resistant RA patients before and after administration of the drug.
+
+Methods: Paired synovial biopsies were obtained from the affected knee of anti-TNF resistant RA patients before (T0) and 12 weeks after initiation of rituximab therapy (T12). Total RNA was extracted, labeled according to standard Affymetrix procedures and hybridized on GeneChip HGU133 Plus 2.0 slides. Immunohistochemistry and quantitative real-time PCR experiments were performed to confirm the differential expression of selected transcripts.
+
+Results: According to paired Student’s t-tests, 549 out of 54,675 investigated probe sets were differentially expressed between T0 and T12. Pathway analysis revealed that genes down-regulated between T0 and T12 were significantly enriched in immunoglobulin genes, and genes involved in chemotaxis, leucocyte activation and immune responses (Gene Ontology annotations). By contrast, genes up-regulated between T0 and T12 were significantly enriched in transcripts involved in cell development (Gene Ontology annotation) and wound healing (GSEA). At baseline, higher synovial expression of immunoglobulin genes was associated with response to therapy.
+
+Conclusion: Rituximab displays unique effects on global gene expression profiles in synovial tissue of RA patients. These observations open new perspectives in the understanding of the biological effects of the drug and in the selection of patients likely to benefit from this therapy.","Twenty patients with RA (17 women and 3 men, average age +/- SEM: 52,6+/-3,8 years) were included in the study. All patients met the American College of Rheumatology classification criteria for the diagnosis of RA. All patients had active disease at the time of tissue sampling and were resistant to TNF blockade. They all had erosive changes imaged on conventional x-rays of the hands and/or feet. All of them had a swollen knee at inclusion. Rituximab therapy was administrated at a dose of 1,000 mg IV at baseline (T0) and at week 2, together with 125 mg IV Methylprednisolone. Clinical parameters at baseline (T0) and 12 weeks after the initiation of therapy (T12) was evaluated using DAS(28)-CRP scores and clinical responses were assessed using EULAR response criteria. Synovial biopsies were obtained by needle-arthroscopy of an affected knee from all patients at T0 and T12. For each procedure, 4 to 8 synovial samples were kept overnight at 4°C in a RNA stabilizing solution (RNALater, Ambion, Applied Biosystems, TX, USA) and then stored at –80°C for later RNA extraction. The same amount of tissue was snap-frozen in liquid nitrogen and kept at –80°C for immunostaining experiments on frozen sections. The remaining material was fixed in 10% formaldehyde and paraffin embedded for conventional optical evaluation and immunostaining of selected markers. All the experiments (RNA extraction, histology, immunohistochemistry) were performed on at least 4 biopsies harvested during every procedure in order to correct for variations related to the potential heterogeneous distribution of synovial inflammation. The study was approved by the ethics committee of the Université catholique de Louvain and informed consent was obtained from all patients.
+
+At least 1 µg total RNA could be extracted from 12 paired samples at T0 and T12 for further processing.",,24,GPL570,0
+GSE16716,17,18.88235294117647,,18.88235294117647,8.0,0.9411764705882353,MicroArray Quality Control Phase II (MAQC-II) Project,"The MAQC-II Project: A comprehensive study of common practices for the development and validation of microarray-based predictive models
+
+The second phase of the MicroArray Quality Control (MAQC-II) project evaluated common practices for developing and validating microarray-based models aimed at predicting toxicological and clinical endpoints. The purposes of the MAQC-II project were to survey approaches in genomic model development  in an attempt to understand sources of variability in prediction performance, and to assess the  influences of endpoint signal strength in data. Thirty-six teams developed classifiers for 13 diverse  endpoints -- some easy, some difficult to predict, from six relatively large training data sets -- three  preclinical (toxicogenomics) and three clinical. By providing the same data sets to many organizations  for analysis, but not restricting their data analysis protocols (DAPs), the project made it possible  to evaluate to what extent, if any, results depend on the team that performs the analysis. These analyses  collectively produced >18,000 models that were challenged by independent and blinded validation sets  generated for MAQC-II. The cross-validated performance estimates for models developed under good  practices are predictive of the blinded validation performance. The achievable prediction performance  is largely determined by the intrinsic predictability of the endpoint, and simple data analysis methods  often perform as well as more complicated approaches. Multiple models of comparable performance can be developed for a given endpoint and the stability of gene lists correlates with endpoint predictability. Importantly, similar conclusions were reached when >12,000 new models were  generated by swapping the original training and validation sets.
+
+Description of six data sets including 13 prediction endpoints:
+(Summarized in GSE16716_MAQC-II_Datasets_Overview.pdf attached as supplementary file. For more details, see the MAQC-II main paper and its references for individual dataset.)
+
+The MAQC-II predictive modeling was limited to binary classification problems; therefore, continuous endpoint values such as overall survival (OS) and event-free survival (EFS) times were dichotomized using a ""milestone"" cutoff of censor data. Prediction endpoints were chosen to span a wide range of prediction difficulty. Two endpoints, H (CPS1) and L (NEP_S), representing the gender of the patients, were used as positive control endpoints, since they are easily predictable by microarrays. Two other endpoints, I (CPS1) and M (NEP_R), representing randomly assigned class labels, were designed to serve as negative control endpoints, since they are not supposed to be predictable. Data analysis teams were not aware of the characteristics of endpoints H, I, L, and M until their swap prediction results had been submitted. If a data analysis protocol did not yield models to accurately predict endpoints H and L, or if a data analysis protocol claims to be able to yield models to accurately predict endpoints I and M, something must have gone wrong.
+
+The Hamner data set (endpoint A) was provided by The Hamner Institutes for Health Sciences (Research Triangle Park, NC, USA). The study objective was to apply microarray gene expression data from the lung of female B6C3F1 mice exposed to a 13-week treatment of chemicals to predict increased lung tumor incidence in the 2-year rodent cancer bioassays of the National Toxicology Program. If successful, the results may form the basis of a more efficient and economical approach for evaluating the carcinogenic activity of chemicals. Microarray analysis was performed using Affymetrix Mouse Genome 430 2.0 arrays on three to four mice per treatment group, and a total of 70 mice were analyzed and used as the MAQC-II's training set. Additional data from another set of 88 mice were collected later and provided as the MAQC-II's external validation set.
+
+The Iconix data set (endpoint B) was provided by Iconix Biosciences, Inc. (Mountain View, CA, USA). The study objective was to assess, upon short term exposure, hepatic tumor induction by non-genotoxic chemicals, since there are currently no accurate and well-validated short-term tests to identify non-genotoxic hepatic tumorigens, thus necessitating an expensive 2-year rodent bioassay before a risk assessment can begin. The training set consists of hepatic gene expression data from 216 male Sprague-Dawley rats treated for 5 days with one of 76 structurally and mechanistically diverse nongenotoxic hepatocarcinogens and non-hepatocarcinogens. The validation set consists of 201 male Sprague-Dawley rats treated for 5 days with one of 68 structurally and mechanistically diverse non-genotoxic hepatocarcinogens and non- hepatocarcinogens. Gene expression data were generated using the Amersham Codelink Uniset Rat 1 Bioarray (GE HealthCare, Piscataway, NJ). The separation of the training set and validation set was based on the time when the microarray data were collected; i.e., microarrays processed earlier in the study were used as training and those processed later were used as validation.
+
+The NIEHS data set (endpoint C) was provided by the National Institute of Environmental Health Sciences (NIEHS) of the National Institutes of Health (Research Triangle Park, NC, USA). The study objective was to use microarray gene expression data acquired from the liver of rats exposed to hepatotoxicants to build classifiers for prediction of liver necrosis. The gene expression ""compendium"" data set was collected from 418 rats exposed to one of eight compounds (1,2- dichlorobenzene, 1,4-dichlorobenzene, bromobenzene, monocrotaline, N-nitrosomorpholine, thioacetamide, galactosamine, and diquat dibromide). All eight compounds were studied using standardized procedures, i.e. a common array platform (Affymetrix Rat 230 2.0 microarray), experimental procedures and data retrieving and analysis processes. Briefly, for each compound,  four to six male, 12 week old F344 rats were exposed to a low dose, mid dose(s) and a high dose  of the toxicant and sacrificed at 6, 24 and 48 hrs later. At necropsy, liver was harvested for  RNA extraction, histopathology, and clinical chemistry assessments.
+
+The human breast cancer (BR) data set (endpoints D and E) was contributed by the University of Texas M. D. Anderson Cancer Center (MDACC, Houston, TX, USA). Gene expression data from 230 stage I-III breast cancers were generated from fine needle aspiration specimens of newly diagnosed breast cancers before any therapy. The biopsy specimens were collected sequentially during a prospective pharmacogenomic marker discovery study between 2000 and 2008. These specimens represent 70-90% pure neoplastic cells with minimal stromal contamination. Patients received 6 months of preoperative (neoadjuvant) chemotherapy including paclitaxel, 5-fluorouracil, cyclophosphamide and doxorubicin followed by surgical resection of the cancer. Response to preoperative chemotherapy was categorized as a pathological complete response (pCR = no residual invasive cancer in the breast or lymph nodes) or residual invasive cancer (RD), and used as endpoint D for prediction. Endpoint E is the clinical estrogen-receptor status as established by immunohistochemistry. RNA extraction and gene expression profiling were performed in multiple batches over time using Affymetrix U133A microarrays. Genomic analysis of a subset of this sequentially accrued patient population were reported previously. For each endpoint, the first 130 cases were used as a training set and the next 100 cases were used as an independent validation set.
+
+The multiple myeloma (MM) data set (endpoints F, G, H, and I) was contributed by the Myeloma Institute for Research and Therapy at the University of Arkansas for Medical Sciences (UAMS, Little Rock, AR, USA). Gene expression profiling of highly purified bone marrow plasma cells was performed in newly diagnosed patients with MM. The training set consisted of 340 cases enrolled on total therapy 2 (TT2) and the validation set comprised 214 patients enrolled in total therapy 3 (TT3). Plasma cells were enriched by anti-CD138 immunomagnetic bead selection of mononuclear cell fractions of bone marrow aspirates in a central laboratory. All samples applied to the microarray contained more than 85% plasma cells as determined by 2-color flow cytometry  (CD38+ and CD45-/dim) performed after selection. Dichotomized overall survival (OS) and eventfree survival (EFS) were determined based on a two-year milestone cutoff. A gene expression model of  high-risk multiple myeloma was developed and validated by the data provider and later on validated in three additional independent data sets.
+
+The neuroblastoma (NB) data set (endpoints J, K, L, and M) was contributed by the Children's Hospital of the University of Cologne, Germany. Tumor samples were checked by a pathologist prior  to RNA isolation; only samples with =60% tumor content were utilized and total RNA was isolated  from ~50mg of snap-frozen neuroblastoma tissue obtained before chemotherapeutic treatment. First, 502 pre-existing 11K Agilent dye-flipped, dual-color replicate profiles for 251 patients were provided. Of these, profiles of 246 neuroblastoma samples passed an independent MAQC-II quality assessment by majority decision and formed the MAQC-II training data set. Subsequently, 514 dyeflipped dual-color 11K replicate profiles for 256 independent neuroblastoma tumor samples were generated and profiles for 253 samples were selected to form the MAQC-II validation set. Of note, for one patient of the validation set, two different tumor samples were analyzed utilizing both versions of the 2x11K microarray (see below). All dual-color gene-expression of the MAQC-II training set were generated using a customized 2x11K neuroblastoma-related microarray. Furthermore, 20 patients of the MAQC-II validation set were also profiled utilizing this microarray. Dual-color profiles of the remaining patients of the MAQC-II validation set were performed using a slightly revised version of the 2x11K microarray. This version V2.0 of the array comprised 200 novel oligonucleotide probes whereas 100 oligonucleotide probes of the original design were removed due to consistent low expression values (near background) observed in the training set profiles. These minor modifications of the microarray design resulted in a total of 9,986 probes present on both versions of the 2x11K microarray. The experimental protocol did not differ between both sets and gene-expression profiles were performed as described. Furthermore, single-color geneexpression profiles were generated for 478/499 neuroblastoma samples of the MAQC-II dual-color training and validation sets (training set 244/246; validation set 234/253). For the remaining 21 samples no single-color data were available, due to either shortage of tumor material of these patients (n=15), poor experimental quality of the generated single-color profiles (n=5), or correlation of one single-color profile to two different dual-color profiles for the one patient profiled with both versions of the 2x11K microarrays (n=1). Single-color gene-expression profiles were generated using customized 4x44K oligonucleotide microarrays produced by Agilent Technologies (Palo Alto, CA, USA). These 4x44K microarrays included all probes represented by Agilent's Whole Human Genome Oligo Microarray and all probes of the version V2.0 of the 2x11K customized microarray that were not present in the former probe set. Labeling and hybridization was performed following the manufacturer's protocol as described.
+
+This SuperSeries is composed of the SubSeries listed below.",Refer to individual Series,"SuperSeries of: GSE20194
+SuperSeries of: GSE24061
+SuperSeries of: GSE24080
+SuperSeries of: GSE24363
+SuperSeries of: GSE24417",1343,"GPL96
+GPL570
+GPL1261
+GPL1355",1
+GSE11001,30,18.0,,18.0,1.0,2.0,Genome-wide expression profiling from formalin-fixed paraffin-embedded breast cancer core biopsies,"The routine workflow for invasive cancer diagnostics is based on biopsy processing by formalin fixation and subsequent paraffin embedding. Formalin-fixed paraffin-embedded (FFPE) tissue samples are easy to handle, stable and particularly suitable for morphologic evaluation, immunohistochemistry and in situ hybridization. However, it has become a paradigm that these samples cannot be used for genome-wide expression analysis with microarrays. To oppose this view, we present a pilot microarray study using FFPE core needle biopsies from breast cancers as RNA source.  We found that microarray probes interrogating sequences near the poly-A-tail of the transcribed genes were well suitable to measure RNA levels in FFPE core needle biopsies. For the ER and the HER2 gene, we observed strong correlations between RNA levels measured in these probe sets and protein expression determined by immunohistochemistry (p = 0.000003 and p = 0.0022). Further, we have identified a signature of 364 genes that correlated with ER protein status and a signature of 528 genes that correlated with HER2 protein status. Many of these genes (ER: 60%) could be confirmed by analysis of an independent publicly available data set. Finally, a hierarchical clustering of the biopsies with respect to three recently reported gene expression grade signatures resulted in widely stable low and high expression grade clusters that correlated with the pathological tumor grade.  These findings support the notion that clinically relevant information can be gained from microarray based gene expression profiling of FFPE cancer biopsies. This opens new opportunities for the integration of gene expression analysis into the workflow of invasive cancer diagnostics as well as translational research in the setting of clinical studies.
+Keywords: disease state analysis","RNA from 24 breast cancer biopsies extracted with kit A, RNA from 6 breast cancer biopsies extracted with kit B",,30,GPL570,0
+GSE58598,10,17.0,,17.0,1.0,3.0,Stromal and epithelial changes in breast cancer following endocrine treatment,"Patients diagnosed with breast cancer were recruited to an important trial, the Tamoxifen Window Trial, in two series, series A during 1988-1989 and series B during 1989-1990. Some patients received tamoxifen for short windows. Clinical samples (biopsies) for this trial were collected before and after treatment. These biopsies were available as formalin-fixed paraffin-embedded (FFPE) tissue blocks.","Post-treatment samples from three responding patients (A29, B42, B61) and three non-responding patients (A15, A19, B59) were identified as suitable for this study and underwent LCM.",,10,GPL5188,0
+GSE47994,202,14.0,,14.0,2.0,3.0,"Tumor-infiltrating lymphocytes, prognosis and trastuzumab benefit in early-stage breast cancer patients from the FinHER trial",The clinical relevance of tumor infiltrating lymphocytes (TILs) in breast cancer (BC) is not firmly established. We aimed to validate previous prognostic findings in triple negative breast cancer (TNBC) and investigate predictive associations with trastuzumab benefit in HER2 overexpressing disease (HER2+).,"The Finland Herceptin (FinHER) trial (doi.org/10.1186/ISRCTN76560285) was an adjuvant, phase III study enrolling 1010 early-stage BC patients. Those with HER2+ disease (n=232) were randomized to 9 weeks of trastuzumab or no trastuzumab in addition to chemotherapy. Two pathologists independently quantified TILs from the 935 (92.6%) available slides. Distant disease-free survival (DDFS), overall survival (OS), and interactions with trastuzumab were studied.   During the FinHER trial, primary breast cancer specimens were collected from women who had undergone mastectomy or breast-conserving surgery and preserved as formalin-fixed paraffin-embedded (FFPE) tissue blocks. RNA extracted from FFPE specimens with Qiagen's miRNeasy FFPE Kit was processed with SensationPlusTM FFPE Amplification and 3'IVT Labeling Kit. Gene expression profiles were derived from the processed RNA using the PrimeView Human Genome U219 Array Plate on the GeneTitanTM instrument.",,337,GPL13667,0
+GSE28826,15,13.0,,13.0,3.0,1.0,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic bad response (Miller & Payne grades 1 and 2),"The aim of this study was to compare the gene expression profile changes breast tumors after the treatment with Anthracyclines and Taxanes. To this end, an oligonucleotide microarray was performed (Affymetrix’s HG-U133 Plus 2.0 array). This gene expression study was carried out on the biopsied tumor samples previous being treated with chemotherapy, and subsequently compared with themselves once treatment schedule ended. The post-chemotherapy biopsy was obtained from the surgical piece. The goal of this study was the finding of several genes related to apoptosis, proliferation, differentiation, survival and transformation-related genes and correlating their differences in expression with the degree of response to chemotherapy, determined by the Miller and Payne histological grading system.","After informed consent, patients with a histologically confirmed diagnosis of breast cancer and scheduled chemotherapy treatment based on Anthracyclines and Taxanes (Treatment A: Epirubicin 90 mg/m2-Cyclophosphamide 600 mg/m2, 3 cycles bi-weekly and Taxol 150 mg/m2-Gemcitabine 2500 mg/m2, 6 cycles bi-weekly ± weekly Herceptin 4 mg/Kg during the first week, 2 mg/Kg for the remaining 11 cycles; Treatment B: Doxorubicin 60 mg/m2-Pemetrexed 500 mg/m2, 4 cycles tri-weekly and Taxotere 100 mg/m2, 4 cycles tri-weekly; Treatment C: Doxorubicin 60 mg/m2-Cyclophosphamide 600 mg/m2, 4 cycles tri-weekly and Taxotere 100 mg/m2, 4 cycles tri-weekly ) were recruited for this study. Pre-chemotherapy and post-chemotherapy biopsies were examined by a pathologist who determined the Miller & Payne grade for each patient. Matching pairs of pre-chemotherapy and post-chemotherapy samples were divided into 3 groups according to Miller & Payne grade: group of bad response (Miller & Payne grades 1 and 2), group of mid response(Miller & Payne grade 3) and group of good response (Miller & Payne grades 4 and 5). Gene expression analysis was performed in paired samples as follows: bad response group post-chemotherapy biopsy vs pre-chemotherapy biopsy (Bad Final vs Initial). For this assay were necessary 28 samples being chosen according to histopathologic criteria (Miller & Payne grades 1 and 2). Of them, 26 samples were paired, 1 pre-chemotherapy sample and 1 post-chemotherapy sample from patients that experienced a bad response to chemotherapy were also included in this experimental series. Other comparisons in which this group of samples was involved include: Initial Bad vs Good, Initial Bad vs Mid, Final Bad vs Good and Final Bad vs Mid. This gene expression profiling was carried out making use of Affymetrix’s GeneChip technology, with the Affymetrix’s HG-U133 Plus 2.0 array from this provider. All the protocols and apparatus were recommended by Affymetrix. Total RNA from frozen mammary tumors was directly extracted by a RNeasy Mini kit and homogenized by QIAshredder columns under manufacturer’s instructions. The quality and quantity of the obtained RNA, was checked out through agarose electrophoresis and later spectrophotometry at 260/280 nm. Biotinylated cRNA was synthesized following the IVT labeling kit from Affymetrix and purified by the GeneChip Sample Cleanup Module from Affymetrix. Once again, the quality and quantity of the obtained cRNA, was checked out through agarose electrophoresis and posterior spectrophotometry at 260/280 nm. After hybridization, slides were washed and scanned following the manufacturer’s standard protocol. Intensity values were normalized by Robust Multichip Average method and subsequently these were filtered for remove the control sequences and those with a hybridization signal near to background. The spike controls were: BioB, BioC, BioD and Cre; because BioB was the less presented in the samples, it was used to estimate the sensitivity of the experiment. The housekeeping control was GAPDH. After non-supervised PCA analysis and clustering, gene expression statistical significances were identified by two regression models taking into account the pathologic response to chemotherapy and if the sample was obtained before or after chemotherapy treatment. Supervised PCA analysis and clustering were performed with processed data. Partek Genomics Suite v7.3.1 (Partek) software was employed for the statistic analysis and clustering.",SubSeries of: GSE28844,28,GPL570,0
+GSE28694,8,13.0,,13.0,3.0,1.0,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic good response (Miller & Payne grades 4 and 5),"The aim of this study was to compare the gene expression profile changes breast tumors after the treatment with Anthracyclines and Taxanes. To this end, an oligonucleotide microarray was performed (Affymetrix’s HG-U133 Plus 2.0 array). This gene expression study was carried out on the biopsied tumor samples previous being treated with chemotherapy, and subsequently compared with themselves once treatment schedule ended. The post-chemotherapy biopsy was obtained from the surgical piece. The goal of this study was the finding of several genes related to apoptosis, proliferation, differentiation, survival and transformation-related genes and correlating their differences in expression with the degree of response to chemotherapy, determined by the Miller and Payne histological grading system.","After informed consent, patients with a histologically confirmed diagnosis of breast cancer and scheduled chemotherapy treatment based on Anthracyclines and Taxanes (Treatment A: Epirubicin 90 mg/m2-Cyclophosphamide 600 mg/m2, 3 cycles bi-weekly and Taxol 150 mg/m2-Gemcitabine 2500 mg/m2, 6 cycles bi-weekly ± weekly Herceptin 4 mg/Kg during the first week, 2 mg/Kg for the remaining 11 cycles; Treatment B: Doxorubicin 60 mg/m2-Pemetrexed 500 mg/m2, 4 cycles tri-weekly and Taxotere 100 mg/m2, 4 cycles tri-weekly; Treatment C: Doxorubicin 60 mg/m2-Cyclophosphamide 600 mg/m2, 4 cycles tri-weekly and Taxotere 100 mg/m2, 4 cycles tri-weekly) were recruited for this study. Pre-chemotherapy and post-chemotherapy biopsies were examined by a pathologist who determined the Miller & Payne grade for each patient. Matching pairs of pre-chemotherapy and post-chemotherapy samples were divided into 3 groups according to Miller & Payne grade: group of bad response (Miller & Payne grades 1 and 2), group of mid response (Miller & Payne grade 3) and group of good response (Miller & Payne grades 4 and 5). Gene expression analysis was performed in paired samples as follows: bad response group post-chemotherapy biopsy vs pre-chemotherapy biopsy (Bad Final vs Initial). For this assay were necessary 13 samples being chosen according to histopathologic criteria (Miller & Payne grades 4 and 5). Of them, 10 samples were paired and 3 pre-chemotherapy samples from patients that experienced a good response to chemotherapy were also included in this experimental series. Other comparisons in which this group of samples was involved include: Initial Bad vs Good, Initial Good vs Mid, Final Mid vs Good and Final Bad vs Good. This gene expression profiling was carried out making use of Affymetrix’s GeneChip technology, with the Affymetrix’s HG-U133 Plus 2.0 array from this provider. All the protocols and apparatus were recommended by Affymetrix. Total RNA from frozen mammary tumors was directly extracted by a RNeasy Mini kit and homogenized by QIAshredder columns under manufacturer’s instructions. The quality and quantity of the obtained RNA, was checked out through agarose electrophoresis and later spectrophotometry at 260/280 nm. Biotinylated cRNA was synthesized following the IVT labeling kit from Affymetrix and purified by the GeneChip Sample Cleanup Module from Affymetrix. Once again, the quality and quantity of the obtained cRNA, was checked out through agarose electrophoresis and posterior spectrophotometry at 260/280 nm. After hybridization, slides were washed and scanned following the manufacturer’s standard protocol. Intensity values were normalized by Robust Multichip Average method and subsequently these were filtered for remove the control sequences and those with a hybridization signal near to background. The spike controls were: BioB, BioC, BioD and Cre; because BioB was the less presented in the samples, it was used to estimate the sensitivity of the experiment. The housekeeping control was GAPDH. After non-supervised PCA analysis and clustering, gene expression statistical significances were identified by two regression models taking into account the pathologic response to chemotherapy and if the sample was obtained before or after chemotherapy treatment. Supervised PCA analysis and clustering were performed with processed data. Partek Genomics Suite v7.3.1 (Partek) software was employed for the statistic analysis and clustering.",SubSeries of: GSE28844,13,GPL570,0
+GSE28583,9,13.0,,13.0,3.0,1.0,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic mid-response (Miller & Payne grade 3),"The aim of this study was to compare the gene expression profile changes breast tumors after the treatment with Anthracyclines and Taxanes. To this end, an oligonucleotide microarray was performed (Affymetrix’s HG-U133 Plus 2.0 array). This gene expression study was carried out on the biopsied tumor samples previous being treated with chemotherapy, and subsequently compared with themselves once treatment schedule ended. The post-chemotherapy biopsy was obtained from the surgical piece. The goal of this study was the finding of several genes related to apoptosis, proliferation, differentiation, survival and transformation-related genes and correlating their differences in expression with the degree of response to chemotherapy, determined by the Miller and Payne histological grading system.","After informed consent, patients with a histologically confirmed diagnosis of breast cancer and scheduled chemotherapy treatment based on Anthracyclines and Taxanes (Treatment A: Epirubicin 90 mg/m2-Cyclophosphamide 600 mg/m2, 3 cycles bi-weekly and Paclitaxel 150 mg/m2-Gemcitabine 2500 mg/m2, 6 cycles bi-weekly ± weekly Herceptin 4 mg/Kg during the first week, 2 mg/Kg for the remaining 11 cycles; Treatment B: Doxorubicin 60 mg/m2-Pemetrexed 500 mg/m2, 4 cycles tri-weekly and Docetaxel 100 mg/m2, 4 cycles tri-weekly; Treatment C: Doxorubicin 60 mg/m2-Cyclophosphamide 600 mg/m2, 4 cycles tri-weekly and Docetaxel 100 mg/m2, 4 cycles tri-weekly ) were recruited for this study. Pre-chemotherapy and post-chemotherapy biopsies were examined by a pathologist who determined the Miller & Payne grade for each patient. Matching pairs of pre-chemotherapy and post-chemotherpy samples were divided into 3 groups according to Miller & Payne grade: group of bad response (Miller & Payne grades 1 and 2), group of mid response (Miller & Payne grade 3) and group of good response (Miller & Payne grades 4 and 5). Gene expression analysis was performed in paired samples as follows: mid response group post-chemotherapy biopsy vs pre-chemotherapy biopsy (Mid final vs initial). For this assay were necessary 20 samples being chosen according to histopathologic criteria (Miller & Payne grade 3). Other comparisons in which this group of samples was involved include: Initial Good vs Mid, Initial Bad vs Mid, Final Bad vs Mid and Final Good vs Mid. This gene expression profiling was carried out making use of Affymetrix’s GeneChip technology, with the Affymetrix’s HG-U133 Plus 2.0 array from this provider. All the protocols and apparatus were recommended by Affymetrix. Total RNA from frozen mammary tumors was directly extracted by a RNeasy Mini kit and homogenized by QIAshredder columns under manufacturer’s instructions. The quality and quantity of the obtained RNA, was checked out through agarose electrophoresis and later spectrophotometry at 260/280 nm. Biotinylated cRNA was synthesized following the IVT labeling kit from Affymetrix and purified by the GeneChip Sample Cleanup Module from Affymetrix. Once again, the quality and quantity of the obtained cRNA, was checked out through agarose electrophoresis and posterior spectrophotometry at 260/280 nm. After hybridization, slides were washed and scanned following the manufacturer’s standard protocol. Intensity values were normalized by Robust Multichip Average method and subsequently these were filtered for remove the control sequences and those with a hybridization signal near to background. The spike controls were: BioB, BioC, BioD and Cre; because BioB was the less presented in the samples, it was used to estimate the sensitivity of the experiment. The housekeeping control was GAPDH. After non-supervised PCA analysis and clustering, gene expression statistical significances were identified by two regression models taking into account the pathologic response to chemotherapy and if the sample was obtained before or after chemotherapy treatment. Supervised PCA analysis and clustering were performed with processed data. Partek Genomics Suite v7.3.1 (Partek) software was employed for the statistic analysis and clustering.",SubSeries of: GSE28844,20,GPL570,0
+GSE25065,16,12.0,,12.0,2.0,1.0,Validation cohort for genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,"PURPOSE: To develop a predictive test for response and survival following neoadjuvant taxane-anthracycline chemotherapy for HER2-negative invasive breast cancer.
+METHODS: We developed a microarray-based gene expression test from pre-treatment tumor biopsies (310 patients) to predict favorable outcome based on estrogen receptor (ER) status,pathologic response to chemotherapy, 3-year disease outcomes, and sensitivity to endocrine therapy. Tumors were classified as treatment-sensitive if predicted to have pathologic response (and not resistance) to chemotherapy, or sensitive to endocrine therapy. We tested predictive accuracy, with 95% confidence interval (CI), for pathologic response (PPV, positive predictive value), distant relapse-free survival (DRFS), and absolute risk reduction at median follow-up in 198 other patients. Independence from clinical-pathologic factors was assessed in a multivariate Cox regression analysis based on the likelihood ratio test. Other evaluable, published response predictors (genomic grade index (GGI), intrinsic subtype (PAM50), pCR predictor (DLDA30)) were compared.",Neoadjuvant validation cohort of 198 HER2-negative breast cancer cases treated with taxane-anthracycline chemotherapy pre-operatively and endocrine therapy if ER-positive.  Response was assessed at the end of neoadjuvant treatment and distant-relapse-free survival was followed for at least 3 years post-surgery.,SubSeries of: GSE25066,198,GPL96,0
+GSE40837,8,12.0,,12.0,4.0,0.0,A phase II study of adding the multikinase inhibitor sorafenib to endocrine therapy in patients with metastatic ER-positive breast cancer.,"Growth factor signaling and angiogenesis may promote endocrine-resistance in breast cancer and blocking these pathways can overcome resistance in preclinical models.  We conducted a phase-II study of adding the VEGFR/Ras/Raf/MAPK inhibitor sorafenib to endocrine therapy in metastatic ER-positive breast cancer, either upon progression or after maximal response with measurable residual disease. Tumor biopsies and serum were collected on days 1 and 28. Primary endpoint was response by RECIST after 3 months and secondary endpoints included safety, time to progression (TTP), and biomarker assessment. Planned sample size was 43 patients but the study closed after 11 patients because of slow accrual. 8 patients had progressive disease (PD) on entry and 3 had stable disease (SD). One patient with SD discontinued sorafenib after 2-weeks because of grade 3 rash. Of the 10 remaining patients after adding sorafenib, 7 had SD (70%), 3 had PD (30%) and median TTP was 6.1-months. Of the 8 patients who entered the study with PD on endocrine therapy, 5 converted to SD (62%) with a median TTP of 6.4-months. Notably, patients on tamoxifen had a median TTP of 8.4-months. The most common adverse events were hypophosphatemia, hypokalemia, and rash, and the majority were grade 1&2 with no grade 4 toxicities. There was a significant reduction in serum VEGFR2 and PDGFR-α on day-28 (p-values 0.0035 and 0.017, respectively). Both serum VEGF and sVEGFR-1 were increased on day-28, but the differences were not statistically significant (p-values 0.3223 and 0.084, respectively). Microarray analysis identified 32 suppressed genes with an FDR of <0.20 and at least a 2-fold change with no induced genes and 29 KEGG pathways were enriched on day-28.  Our study suggests that sorafenib can restore endocrine sensitivity, particularly tamoxifen, and this strategy of adding novel agents in patients progressing on endocrine therapy should be examined in future trials.","This was a single-institution, phase II study of adding sorafenib to existing endocrine therapy.  On study entry, eligible patients underwent serum sample collection and core biopsy of accessible disease (if applicable) on endocrine therapy and prior to starting sorafenib.  Serum and a second biopsy were then collected on day 28. Sorafenib dose was 400mg orally twice daily along with continuing the same endocrine agent.  Patients were followed monthly for clinical and toxicity evaluation. Disease response by RECIST criteria was assessed after 3 months by appropriate scans and these were obtained every 2 months thereafter until progression. Sorafenib and the endocrine agent were continued until disease progression or unacceptable toxicity",,8,GPL570,0
+GSE25055,3,12.0,,12.0,2.0,1.0,Discovery cohort for genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,"PURPOSE: To develop a predictive test for response and survival following neoadjuvant taxane-anthracycline chemotherapy for HER2-negative invasive breast cancer.
+METHODS: We developed a microarray-based gene expression test from pre-treatment tumor biopsies (310 patients) to predict favorable outcome based on estrogen receptor (ER) status,pathologic response to chemotherapy, 3-year disease outcomes, and sensitivity to endocrine therapy. Tumors were classified as treatment-sensitive if predicted to have pathologic response (and not resistance) to chemotherapy, or sensitive to endocrine therapy. We tested predictive accuracy, with 95% confidence interval (CI), for pathologic response (PPV, positive predictive value), distant relapse-free survival (DRFS), and absolute risk reduction at median follow-up in 198 other patients. Independence from clinical-pathologic factors was assessed in a multivariate Cox regression analysis based on the likelihood ratio test. Other evaluable, published response predictors (genomic grade index (GGI), intrinsic subtype (PAM50), pCR predictor (DLDA30)) were compared.",Neoadjuvant study of 310 HER2-negative breast cancer cases treated with taxane-anthracycline chemotherapy pre-operatively and endocrine therapy if ER-positive.  Response was assessed at the end of neoadjuvant treatment and distant-relapse-free survival was followed for at least 3 years post-surgery.,SubSeries of: GSE25066,310,GPL96,0
+GSE58911,29,11.0,,11.0,6.0,1.0,Gene expression in normal and tumor samples from patients with HNSCC,"Tissue samples were collected from patients diagnosed with HNSCC (oropharynx, hypopharynx, larynx). Samples were taken from the tumor site (tumor samples) and from a site distant to the tumor (normal samples) prior to therapy.
+The study goals were to 1) compare the expression of microRNAs in tumor and normal samples from individual patients and 2) determine whether the differences in expression of microRNAs is associated with patient survival outcomes.",Fifteen paired normal and tumor samples from individual patients were analyzed (a total of 30 samples).,,30,GPL6244,0
+GSE23593,44,11.0,,11.0,2.0,2.0,Intratumor Heterogeneity and Precision of Microarray-Based Predictors of Breast Cancer Biology and Clinical Outcome,Genome-wide expression profiling was performed on 50 core needle biopsies from 18 breast cancer patients using Affymetrix GeneChip Human Genome Plus 2.0 Arrays.,Global profiles of expression were characterized using unsupervised clustering methods and variance components models. Precision of predictors of breast cancer biology and clinical outcome were evaluated by interclass correlation.,,50,GPL570,0
+GSE93984,27,11.0,,11.0,9.0,1.0,Expression data from DLBCL tumor biopsies,"Diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL) are the most prevalent B-lymphocyte neoplasms in which abnormal activation of the Bruton’s tyrosine kinase (BTK)–mediated B-cell receptor (BCR) signaling pathway contributes to pathogenesis. Ibrutinib is an oral covalent BTK inhibitor that has shown some efficacy in both indications. To improve ibrutinib efficacy through combination therapy, we first investigated differential gene expression in parental and ibrutinib-resistant cell lines to better understand the mechanisms of resistance. Ibrutinib-resistant TMD8 cells had higher BCL2 gene expression and increased sensitivity to ABT-199, a BCL-2 inhibitor. Consistently, clinical samples from ABC-DLBCL patients who experienced poorer response to ibrutinib had higher BCL2 gene expression. We further demonstrated synergistic growth suppression by ibrutinib and ABT-199 in multiple ABC-DLBCL, GCB-DLBCL, and FL lymphoma cell lines. The combination of both drugs also reduced colony formation, increased apoptosis, and inhibited tumor growth in a TMD8 xenograft model. A synergistic combination effect was also found in ibrutinib-resistant cells generated by either genetic mutation or drug treatment. Together, these findings suggest a potential clinical benefit from ibrutinib and ABT-199 combination therapy.","Gene expression in ibrutinib pretreated tumor biopsy samples from ABC-DLBCL patients was detected by U133 plus 2.0 arrays and the correlation of BCL2 expression and patient response to ibrutinib or PFS after ibrutinib treatment was analyzed. There are total 28 ABC-DLBCL samples. 17 of them are non-responders (PD+SD) and 11 of them are responders (PR+CR). For this analysis restricted to ABC-DLBCL subtype, only the ABC-DLBCL samples were used and normalized separately.
+
+Data was processed with all subsets of DLBCL samples (60 samples) and also separately for 28 ABC-DLBCL samples ('re-analysis' samples).
+
+The values in the sample 'characteristics' field represent:
+response:
+CR=complete response, PR=partial response, SD=stable disease, PD=progression disease
+class:
+NR=non-responder, RR=responder
+subtype:
+ABC=ABC-DLBCL, GCB=GCB-DLBCL, UNC=unclassified subtype
+progression_free_survival_censor:
+censored case = 1; event (death/progression) = 0 in the censoring variable for the progression free survival analysis",SubSeries of: GSE93986,88,GPL570,0
+GSE29013,55,10.0,,10.0,2.0,2.0,Robust Gene Expression Signature from Formalin-Fixed Paraffin-Embedded Samples Predicts Prognosis of Non-Small-Cell Lung Cancer Patients,"The requirement of frozen tissues for microarray experiments limits the clinical usage of genome-wide expression profiling using microarray technology.
+Keywords:  Lung Cancer Prognosis, Gene Expression Signature, Formalin Fixed Paraffin Embedded Samples
+The goal of this study is to test the feasibility of developing lung cancer prognosis gene signatures using genome-wide expression profiling of formalin-fixed paraffin-embedded (FFPE) samples, which are widely available and provide a valuable rich source for studying the association of molecular changes in cancer and associated clinical outcomes. FFPE tumor specimens were collected, and total RNA was processed for analysis on the Affymetrix U133 plus 2.0 arrays according to Affymetrix protocols.  The quality control procedure for microarray data analysis was based on the percentage of present calls calculated by the MAS5 package. We selected 55 arrays with at least 15% of probe sets present, and we selected 1400 probe sets that present on all 55 arrays for data analysis. After microarray analysis QC, we used the RMA background correction algorithm to remove non-specific background  noise. A robust regression model was fitted to the probe level data, and the fitted expression values for the probes at the 3' end were used to summarize the probe set expression values.  Quantile-quantile normalization was used to normalize all the arrays. The 55 samples and the derived gene expression values for 1400 genes based on the robust regression model were used to develop gene signatures and were uploaded as supplementary data (GSE29013_fitted_1400_probes.txt).","We micro dissected tumor area from FFPE specimen, and used Affymetrix U133 plus 2.0 arrays to obtain gene expression data.",,55,GPL570,0
+GSE4922,208,10.0,,10.0,3.0,4.0,Genetic Reclassification of Histologic Grade Delineates New Clinical Subtypes of Breast Cancer,"Histological grading of breast cancer defines morphological subtypes informative of metastatic potential, although not without considerable inter-observer disagreement and clinical heterogeneity particularly among the moderately differentiated grade II (G2) tumors. We posited that a gene expression signature capable of discerning tumors of grade I (G1) and grade III (G3) histology might provide a more objective measure of grade with prognostic benefit for patients with moderately differentiated disease. To this end, we studied the expression profiles of 347 primary invasive breast tumors analyzed on Affymetrix microarrays. Using class prediction algorithms, we identified 264 robust grade-associated markers, six of which could accurately classify G1 and G3 tumors, and separate G2 tumors into two highly discriminant classes (termed G2a and G2b genetic grades) with patient survival outcomes highly similar to those with G1 and G3 histology, respectively. Statistical analysis of conventional clinical variables further distinguished G2a and G2b subtypes from each other, but also from histologic G1 and G3 tumors. In multivariate analyses, genetic grade was consistently found to be an independent prognostic indicator of disease recurrence comparable to that of lymph node status and tumor size. When incorporated into the Nottingham Prognostic Index, genetic grade enhanced detection of patients with less harmful tumors, likely to benefit little from adjuvant therapy. Our findings show that a genetic grade signature can improve prognosis and therapeutic planning for breast cancer patients, and support the view that low and high grade disease, as defined genetically, reflect independent pathobiological entities rather than a continuum of cancer progression. Three separate breast cancer cohorts were analyzed: 1) Uppsala (n=249), 2) Stockholm (n=58), 3) Singapore (n=40). The Uppsala and Singapore data can be accessed here. The Stockholm cohort data can be accessed at GEO Series GSE1456.
+Keywords: Tumor sample comparisons",All tumor specimens were assessed on U133 A and B arrays.,,578,"GPL96
+GPL97",0
+GSE80077,30,10.0,,10.0,0.0,2.0,Preoperative short-term hormone therapy for hormone receptor positive breast cancer,"Core needle biopsy (Cx) primary cancer specimens were collected at Okayama University Hospital in Japan from hormone receptor positive /HER2 negative patients that subsequently received two weeks of neoadjuvant hormone therapy. Thirty clinical TNM stage I and II women were enrolled in this study. The study was approved by the Institutional Review Board and all patients signed informed consent forms. Patients received preoperative hormone therapy daily for two weeks before surgery. Premenopausal patients received tamoxifen (40 mg) and postmenopausal patients received letrozole (2.5 mg). All patients underwent a mastectomy or breast-conserving surgery. Surgical samples after treatment were also collected. Hormone and HER2 receptor statuses were determined in the diagnostic Cx specimens before hormone therapy. Cases with ≥1% positive nuclear staining for estrogen receptors (ER) or progesterone receptors (PgR) with IHC were considered hormone receptor-positive. Cases with either 0 or 1 positive IHC staining for HER2 or with an HER2 gene copy number < 2.0 by fluorescent in situ hybridization (FISH) analysis were considered HER2−. Specimens for gene expression analysis were collected into RNA and later stored at -80°C. Gene expression profiling was performed using Affymetrix U133A gene chips. Expression data were normalized using the MAS5 algorithm, mean centered to 600, and log2 transformed before further analysis.",Thirty clinical TNM stage I and II women were enrolled in this study.,,60,GPL571,0
+GSE103412,64,9.4375,,9.4375,5.875,1.0,"Mucositis in patients with tonsil squamous cell carcinoma: gene expression profile of oral mucosa before, during, and after radiation therapy","Objectives: In patients with tonsil squamous cell cancer (TSCC), radiation-therapy (RT) induce mucositis, which is clinically challenging with limited prophylactic interventions and no predictive tests. In a pilot study set-up, we performed global gene-expression analysis on human oral mucosa tissue and blood cells to identify differential expressed genes involved in mucositis pathogenesis.","Consecutive mucosa biopsies from 8 patients with tonsil squamous cell carcinoma one biopsy and blood test before radiotherapy (RT), one biopsy and blood test after 5 days of RT (2 Gy each day) and three weeks after the last exposure to RT",,64,GPL23978,0
+GSE46106,42,9.0,,9.0,5.0,0.0,Patient-derived Human Breast Cancer Xenografts,"Breast cancer research is hampered by difficulties in obtaining and studying primary human breast tissue, and by the lack of in vivo preclinical models that reflect patient tumor biology accurately. To overcome these limitations, we propagated a cohort of human breast tumors grown in the epithelium-free mammary fat pad of SCID/Beige and NOD/SCID/IL2γ-receptor null (NSG) mice, under a series of transplant conditions.  Both models yielded stably transplantable xenografts at comparably high rates (~23% and ~19%, respectively). Of the conditions tested, xenograft take rate was highest in the presence of a low-dose estradiol pellet. Overall, 32 stably transplantable xenograft lines were established, representing unique 25 patients. Most tumors yielding xenografts were “triple-negative” (ER-PR-HER2+) (n=19). However, we established lines from three ER-PR-HER2+ tumors, one ER+PR-HER2-, one ER+PR+HER2- and one “triple-positive” (ER+PR+HER2+) tumor. Serially passaged xenografts show biological consistency with the tumor of origin, are phenotypic stability across multiple transplant generations at the histological, transcriptomic, proteomic, and genomic levels, and show comparable treatment responses. Xenografts representing 12 patients, including two ER+ lines, showed metastasis to the mouse lung. These models thus serve as a renewable, quality-controlled tissue resource for preclinical studies investigating treatment response and metastasis.","The study was designed to determine how stable patient-derived xenografts are across multiple transplant generations in mice, and to determine how closely xenografts established with pre-treatment samples cluster with xenografts established with post-treatment samples. Overall, pre-treatment and post-treatment samples derived from the same patient cluster together, and multiple transplant generations of xenografts derived from an individual patient cluster together.",,44,GPL570,0
+GSE50614,22,9.0,,9.0,0.0,1.0,"A Randomized, Placebo-Controlled Study to Evaluate SRT2104, a Selective SIRT1 Activator, in Patients with Moderate to Severe Psoriasis","Activation of Sirtuin (silent mating type information regulation 2 homolog) 1, or SIRT1, is an unexplored therapeutic approach for treatment of inflammatory diseases. The goal of this study was to evaluate the clinical activity and tolerability of multiple doses of SRT2104, a selective activator of SIRT1, in patients with moderate to severe psoriasis after day 84 of treatment. Forty patients were randomized 4:1 to three escalating doses of SRT2104 (250, 500, 1000 mg/d SRT2104 or placebo). Across all SRT2104 groups, 34.6% of patients (9 out of 26; 90% CI 18.0%-54.2%, p<0.0001) achieved good to excellent histological improvement based on skin biopsies taken at baseline and day 84.  To evaluate the changes in expression profile with treatment and to identify pathways involved in histological improvement, a subset of 22 Pre and Post treatment biopsies from 11 patients (4 Placebo, 7 Active Treatment) were hybridized to hgu133plus2 chips. Improvement in histology was associated with modulation of IL-17 and TNF-_ signaling pathways and keratinocyte differentiation target genes. Various studies suggest a crucial role of TNF_ and IL-17 in psoriasis pathogenesis and IL-17/TNF_ synergism induces a strong induction of differentially expressed genes in psoriasis, thus advocating a crucial role of IL-17/TNF_ combination in the molecular basis of disease (Chiricozzi et al., 2010).  In the current study, broad scale gene expression profiling revealed that SRT2104 significantly reduced known IL-17 and TNF_ responsive genes including SERPINB4, S100A12, SERPINB3, kynu etc. even though the sample size for this analysis was small. One of the most highly modulated genes by SRT2104 included Kynu, a gene that regulates tryptophan metabolism, known to confer antibacterial effector functions (Daubener and MacKenzie, 1999). Interestingly kynu is part of the etanercept residual genomic profile that is not modulated by etanercept therapy even though clinical efficacy is achieved. Possibly, SRT2104 may be modulating the lipid barrier of the epidermis of psoriatic skin via modulation of keratinocyte diferentiation genes, which would be consistent with the observed improvement in skin histology. These results indicate a combinatorial effect of SRT2104 on TNF_, and IL-17 inflammatory signaling pathways and keratinocyte differentiation that could be a contributing factor towards improvement in clinical scores by the SIRT1 activator, SRT2104.","Paired  Pre (Day 1) and Post (Day 84) Treatment samples were obtained from 4 Placebo Patients and 7 patients treated with SRT2104 at 3 different doses (250, 500, 1000 mg).",,22,GPL570,0
+GSE37745,195,9.0,,9.0,1.0,3.0,"Biomarker discovery in non-small cell lung cancer: integrating gene expression profiling, meta-analysis and tissue microarray validation","Background: Global gene expression profiling has been widely used in lung cancer research to identify clinically relevant molecular subtypes as well as to predict prognosis and therapy response. So far, the value of these multi-gene signatures in clinical practice is unclear and the biological importance of individual genes is difficult to assess as the published signatures virtually do not overlap.
+
+Methods: Here we describe a novel single institute cohort, including 196 non-small lung cancer (NSCLC) cases with clinical information and long-term follow-up, which was used as a training set to screen for single genes with prognostic impact. The top 450 gene probe sets identified using a univariate Cox regression model (significance level p<0.01) were tested in a meta-analysis including five publicly available independent lung cancer cohorts (n=860).
+
+Results: The meta-analysis revealed that 17 probe sets were significantly associated with survival (p<0.0005) with a false discovery rate of 1%. The prognostic impact of one of these genes, the cell adhesion molecule 1 (CADM1), was confirmed by use of immunohistochemistry on a tissue microarray including 355 NSCLC samples. Low CADM1 protein expression was associated with shorter survival (p=0.028), with particular influence in the adenocarcinoma patient subgroup (p=0.002).
+
+Conclusions: We were able to validate single genes with independent prognostic impact using a novel NSCLC cohort together with a meta-analysis approach. CADM1 was identified as an immunohistochemical marker with a potential application in clinical diagnostics.","Fresh frozen tissue of 196 consecutive NSCLC patients, operated between 1995 and 2005 were analyzed using Affymetrix microarrays HG-U133-Plus2. Clinical data were retrieved from the regional lung cancer registry.",,196,GPL570,0
+GSE39925,21,9.0,,9.0,5.0,0.0,Transcriptional characterization of a prospective series of primary plasma cell leukemia revealed genes associated with tumor progression and poorest outcome,"Plasma cell leukemia (PCL) is a rare form of plasma cell dyscrasia that presents either as a progression of previously diagnosed multiple myeloma (MM), namely secondary PCL (sPCL), or as the initial manifestation of disease, namely primary PCL (pPCL). Although presenting signs and symptoms include those seen in MM, pPCL is characterized by several aspects that clearly define more aggressive course. To provide insights into the biology of pPCL, we have investigated the transcriptional profiles of a cohort of 21 newly-diagnosed, homogeneously treated pPCL patients included in a multicenter prospective clinical trial. All but one pPCL had one of the main IGH translocations, whose associated transcriptional signatures resembled those observed in MM. A 503-gene signature was identified that distinguished pPCL from MM, from which emerged 28 genes whose trend in expression levels was found associated with the progressive stages of plasma cell dyscrasia in a large dataset of cases from multiple institutions, including samples from normal donors throughout PCL. The transcriptional pattern of the pPCL series was then evaluated in association with outcome. Three genes were identified having expression levels correlated with response to the first-line treatment with lenalidomide/dexamethasone, whereas a 27-gene signature was identified associated with overall survival independently of molecular alterations, hematological parameters and renal function. Overall, our data contribute to a fine dissection of pPCL and may provide novel insights into the molecular definition of a subgroup of high-risk pPCL.","This series of microarray experiments contains the gene expression profiles of purified plasma cells (PCs) obtained from 21 pPCL and 55 MM at diagnosis. PCs were purified from bone marrow samples using CD138 immunomagnetic microbeads according to the manufacturer's instructions (MidiMACS system, Miltenyi Biotec); the purity of the positively selected PCs was assessed by morphology and flow cytometry and was > 90% in all cases. 5.5 micrograms of single-stranded DNA target obtained from 100 ng of purified total RNA was fragmented and then labeled using the WT Terminal Labeling Kit according to the standard Affymetrix protocol (GeneChip¨ Whole Transcript (WT) Sense Target Labeling Assay Manual). The fragmented labeled single-stranded DNA target was hybridized for 16 hours and 30 minutes at 45¡C on GeneChip¨ Gene 1.0 ST array according to the standard Affymetrix protocol. Washing and scanning were performed using GeneChip System of Affymetrix (GeneChip Hybridization Oven 640, GeneChip Fluidics Station 450 and GeneChip Scanner 7G). Log2-transformed expression values were extracted from CEL files and normalized using NetAffx Transcript Cluster Annotations, Release 31 and robust multi-array average (RMA) procedure in Expression Console software (Affymetrix Inc.). Non-annotated transcript clusters were discarded. The expression values of transcript cluster ID specific for loci representing naturally occurring read-through transcriptions or mapped to more than one chromosomal location were summarized as median value for each sample.
+gene expression analysis of 21 primary Plasma Cell Leukemia and 55 multiple myeloma tumors",,76,GPL6244,0
+GSE31448,303,8.277227722772277,,8.277227722772277,5.0,1.627062706270627,"Down-regulation of ECRG4, a candidate tumor suppressor gene  in human breast cancer","ECRG4 is a promising tumor suppressor gene (TSG) recently identified in esophageal carcinoma. Its expression and prognostic value have never been explored in breast cancer. Using DNA microarray,  we examined ECRG4 mRNA expression in 353 invasive breast cancer samples. A meta-analysis was performed on a large public retrospective gene expression dataset (n=1,387) to analyze correlation between ECRG4 expression and histo-clinical features including survival.","To determine ECRG4 mRNA expression in breast cancer and normal breast, we first analyzed gene expression data generated by our laboratory (Institut Paoli Calmettes (IPC), Marseille, France) from cancer and normal mammary samples. Tumor tissues were from 353 patients with invasive adenocarcinoma who underwent initial surgery at IPC between 1987 and 2007. The study was approved by our institutional review board. Each patient gave a written informed consent for research use. Samples were macrodissected and frozen in liquid nitrogen within 30 min of surgical removal. All profiled specimens contained more than 60% of cancer cells (as assessed before RNA extraction using frozen sections adjacent to the profiled samples). After surgery, patients received an adjuvant multimodal treatment according to standard guidelines. Extraction of nucleic acids from frozen samples was done by using guanidium isothiocynanate and cesium chloride gradient. Expression profiles had been established for these 353 cancers pools with Affymetrix U133 Plus 2.0 human microarrays (Affymetrix®, Santa Clara, CA, USA).",,357,GPL570,0
+GSE59745,42,8.095238095238095,,8.095238095238095,1.0,2.0,Identification of novel long non-coding RNAs in prostate cancers,"Long non-coding RNAs show highly tissue and disease specific expression profiles. We analyzed prostate cancer and normal adjacent prostate samples to identify cancer-specific transcripts and found 334 candidates, of which 15 were validated by RT-PCR.","8 Prostate cancer samples from radical prostatectomies, 12 samples from normal adjacent prostate, 12 samples from lymph node metastasis and 10 samples from transurethral resection of the prostrate were included in this study. These samples contained more than 70% cancer and less than 30% stromal tissue.",,42,GPL5175,0
+GSE25066,1,8.0,,8.0,1.0,1.0,Genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,This SuperSeries is composed of the SubSeries listed below.,"Refer to individual Series
+","SuperSeries of: GSE25055
+SuperSeries of: GSE25065",508,GPL96,1
+GSE11237,23,8.0,,8.0,2.0,2.0,Celecoxib pre-treatment in human colorectal adenocarcinoma patients.,"Pharmacological inhibition of cyclooxygenase-2 (COX-2) is being explored as a chemotherapeutic option because COX-2 protein expression is often elevated in many cancers.  Cancer cells treated with COX-2 inhibitors, such as the selective COX-2 inhibitor celecoxib, show growth inhibition and the induction of apoptosis, through alterations in inflammatory processes, angiogenesis, cell adhesion and transforming growth factor-β signaling.  This study was conducted to determine if the same processes are relevant to celecoxib’s effects on human colorectal adenocarcinomas treated in vivo.  A cohort of 23 patients with primary colorectal adenocarcinomas was randomized to receive a 7-day course of celecoxib (400 mg b.i.d.) or no drug prior to surgical resection.  Gene expression profiling was performed on resected adenocarcinomas from patients with and without celecoxib pre-treatment.  Using fold change (>1.5) and p-value (<0.05) cut-offs, 190 genes were differentially expressed between adenocarcinomas from patients receiving celecoxib and those that did not.  Of the differentially expressed genes, multiple genes involved in cellular lipid and glutathione metabolism showed decreased expression levels in celecoxib pre-treated samples; changes associated with diminished cellular proliferation.  Other observed gene expression changes consistent with reduced proliferation include: altered expression of genes involved in cell adhesion (including collagen, laminin, von Willebrand factor and tenascin C), increased expression of inflammatory modulators (including inerleukin-6, S100 calcium binding protein A8, and several chemokines) and decreased expression of the pro-angiogenic gene, angiogenin.  Celecoxib pre-treatment for 7 days in vivo is associated with alterations in colorectal adenocarcinoma gene expression which are suggestive of diminished cellular proliferation.","Patients undergoing surgical resection of histologically proven primary colorectal adenocarcinomas were consented for participation in the study.  The patients enrolled in this study were randomized to receive either 400 mg celecoxib two times per day (n=11) or no COX-2 inhibitor (n=12) for 7 days prior to surgical resection. Total RNA (5 ug) from each sample was converted to double stranded cDNA using a dT-T7 promoter primer.  The double stranded cDNA was then used as a template to synthesize biotinylated RNA, which was fragmented and hybridized to the Affymetrix HG_U95av2 microarray chip using Affymetrix’s labeling and hybridization protocol.",,23,GPL8300,0
+GSE18948,16,8.0,,8.0,0.0,1.0,Personalized medicine in psoriasis: developing a genomic classifier to predict histological response to Alefacept,"Alefacept treatment is highly effective in a select group patients with moderate-to-severe psoriasis, and is an ideal candidate to develop systems to predict who will respond to therapy. A clinical trial of 22 patients with moderate to severe psoriasis treated with alefacept (7.5mg weekly i.v. x12 weeks) was conducted in 2002-2003, as a mechanism of action study. Patients were classified as responders or non-responders to alefacept based on histological criteria. Microarray data from PBMCs of 16 of these patients was analyzed to generate a treatment response classifier. We used a discriminant analysis method that performs sample classification from gene expression data, via nearest shrunken centroid method''.  A disease response classifier using 23 genes was created to accurately predict response to alefacept (12.3% error rate in favour of responders). This preliminary study may provide a useful tool to predict response of psoriatic patients with alefacept.","Microarray data from 16  patients was analyzed to generate a treatment response classifier. We used a discriminant analysis method that performs sample classification from gene expression data, via nearest shrunken centroid method.",,16,GPL8300,0
+GSE41998,19,7.0,,7.0,5.0,0.0,Biomarker analysis of neoadjuvant Doxorubicin/Cyclophosphamide followed by Ixabepilone or Paclitaxel in early-stage breast cancer,"A randomized, open-label, multicenter, phase II trial (NCT00455533) enrolled previously untreated women with histologically-confirmed primary invasive breast adenocarcinoma (T2–3, N0–3, M0, tumor size ≥2.0 cm), regardless of hormone receptor or HER2 expression status. Patients received sequential neoadjuvant therapy starting with 4 cycles of AC (doxorubicin 60 mg/m2 intravenously and cyclophosphamide 600 mg/m2 intravenously) given every 3 weeks, followed by 1:1 randomization to either ixabepilone (40 mg/m2 3-hour infusion) every 3 weeks for 4 cycles, or paclitaxel (80 mg/m2 1-hour infusion) weekly for 12 weeks.
+Fresh tumor biopsies at screening were a mandatory prerequisite for study entry for biomarker analyses. Gene expression profiling was performed by Affymetrix GeneChip to determine if pre-specified gene models could distinguish between the clinical activity of two microtubule stabilizing agents, ixabepilone and paclitaxel.","Three core needle tumor tissue biopsies were obtained from all subjects before neoadjuvant therapy with AC and immediately combined in RNAlater® solution for subsequent RNA extraction, cRNA labeling and gene expression profiling.  Pre-specified gene models were tested for their capacity to distinguish pathologic complete response rates between the AC followed by ixabepilone versus the AC followed by paclitaxel treatment regimens.
+All samples were collected prior to treatment.  All subject received cyclophosphamide/doxorubicin (AC) prior to randomization to either Ixabepilone or Paclitaxel.",,279,GPL571,0
+GSE21653,262,6.973282442748092,,6.973282442748092,2.0,1.9732824427480915,A gene expression signature identifies two prognostic subgroups of basal breast cancer,"Medullary breast cancers (MBC) display a basal profile, but a favorable prognosis. We hypothesized that a previously published 368-gene expression signature associated with MBC might serve to define a prognostic classifier in basal cancers. We collected public gene expression and histoclinical data of 2145 invasive early breast adenocarcinomas. We developed a Support Vector Machine (SVM) classifier based on this 368-gene list in a learning set, and tested its predictive performances in an independent validation set. Then, we assessed its prognostic value and that of six prognostic signatures for disease-free survival (DFS) in the remaining 2034 samples. The SVM model accurately classified all MBC samples in the learning and validation sets. A total of 466 cases were basal across other sets. The SVM classifier separated them into two subgroups, subgroup 1 (resembling MBC) and subgroup 2 (not resembling MBC). Subgroup 1 exhibited 71% 5-year DFS, whereas subgroup 2 exhibited 50% (p=9.93E-05). The classifier outperformed the classical prognostic variables in multivariate analysis, conferring lesser risk for relapse in subgroup 1 (HR=0.52, p=3.9E-04). This prognostic value was specific to the basal subtype, in which none of the other prognostic signatures was informative.","The IPC series contained frozen tumor samples obtained from 266 early breast cancer patients who underwent initial surgery in our institution between 1992 and 2004. They included 227 cases previously reported {Finetti, 2008 #1758} and 39 additional cases, all similarly profiled using Affymetrix U133 Plus 2.0 human oligonucleotide microarrays as previously described {Finetti, 2008 #1758}. The study was approved by the IPC review board, and informed consent was available for each case. Gene expression data of 266 BCs  were quantified by using whole-genome DNA microarrays (HG-U133 plus 2.0, Affymetrix).",,266,GPL570,0
+GSE51922,14,6.285714285714286,,6.285714285714286,0.0,1.0,Microarray expression analysis in idiopathic and LRRK2-associated Parkinson's disease (PD),"We analysed the RNA profile of IPSC-derived dopaminergic neurons from idiophatic and genetic form (LRRK2) of Parkinson’s disease (PD). Both, idiopathic and genetic form of the disease show similar expression alterations and were merged in one whole PD group. We found 437 differentially expressed genes (DEGs) in the PD group as a whole. Up-regulated DEGs (n=254) encompassed genes involved in neural functions and transcription factor functions whereas down-regulated DEGs (n=183) affected basic homeostasis. These data point towards the presence of gene - and also protein - expression changes in DAn from PD patients which co-occur simultaneously along with DNA methylation changes.","Number of samples analyzed: 14 iPSC-derived dopaminergic neurons . Control (C) samples, no pathological changes: SP9,   SP11   SP15  SP17. Samples from idiopathic Parkinson's Disease (IPD) patients: SP1,  SP2, SP4,  SP8, SP10, SP16. Samples from Parkinson's disease patients carriers of G2019S LRRK2 mutation (MPD): SP5,  SP6, SP12, SP13. No replicates. 30 days of cell culture.",SubSeries of: GSE51923,14,GPL5175,0
+GSE39134,28,6.0,,6.0,1.0,2.0,Gene expression profiling of microdissected HRS cells is correlated with primary treatment outcome,Hodgkin lymphoma is derived from germinal center / post-germinal center B cells.,Gene expression profilies of micodissected Hodkin Reed Sternberg cells (n=29) were dichotomized into primary treatment failure (n=14) and primary treatment succeses (n=15). Treament failure was defined as refractory disease or progression at any time after ABVD chemotherapy.,,29,GPL570,0
+GSE68465,214,6.0,,6.0,2.02803738317757,2.0,"caArray_jacob-00182: Gene expression-based survival prediction in lung adenocarcinoma: a multi-site, blinded validation study","Here we report a large, training*testing, multi-site, blinded validation study to characterize the performance of several prognostic models based on gene expression for 442 lung adenocarcinomas. The hypotheses proposed examined whether microarray measurements of gene expression either alone or combined with basic clinical covariates (stage, age, sex) could be used to predict overall survival in lung cancer subjects. Several models examined produced risk scores that substantially correlated with actual subject outcome. Most methods performed better with clinical data, supporting the combined use of clinical and molecular information when building prognostic models for early-stage lung cancer. This study also provides the largest available set of microarray data with extensive pathological and clinical annotation for lung adenocarcinomas.","jacob-00182
+Assay Type: Gene Expression
+Provider: Affymetrix
+Array Designs: HG-U133A
+Organism: Homo sapiens (ncbitax)
+Material Types: cell, synthetic_RNA, organism_part, whole_organism, total_RNA
+Disease States: Lung Adenocarcinoma",,462,GPL96,0
+GSE35640,9,6.0,,6.0,9.0,0.0,Identification of a predictive gene signature to recMAGE A3 antigen-specific cancer immunotherapy in metastatic melanoma and non-small-cell lung cancer,"Purpose:  To evaluate the presence of a gene expression signature present before treatment as predictive of response to treatment with MAGE‑A3
+immunotherapeutic in metastatic melanoma patients and to validate its predictivity in adjuvant therapy of early-stage lung cancer.","Patients were participants in two Phase II studies of the recombinant MAGE‑A3 antigen combined with immunological adjuvants.  mRNA from tumor samples (biopsies) collected before MAGE-A3 immunotherapy was analyzed by microarray hybridization and by quantitative polymerase chain reaction (qRT-PCR).  The melanoma microarray dataset was used to discover and crossvalidate a gene expression signature and classifier discriminative of Responders (R) versus Non-Responders (NR) patients; the gene signature and classifier were then applied to an adjuvant lung cancer study. Patients that were not included for analysis are denoted as NE (Non-evaluable).
+GSK Biologicals",,65,GPL570,0
+GSE39133,29,6.0,,6.0,1.0,2.0,Gene expression profiling of microdissected HRS cells,Hodgkin lymphoma is derived from germinal center / post-germinal center B cells.,Gene expression profilies of micodissected Hodkin Reed Sternberg cells (n=29) were compared to microdissected germinal centers (n=5),,34,GPL570,0
+GSE42363,14,6.0,,6.0,5.0,2.0,Exome and whole genome sequencing of esophageal adenocarcinoma identifies recurrent driver events and mutational complexity,"The incidence of esophageal adenocarcinoma (EAC) has risen 600% over the last 30 years.  With an extremely poor five-year survival rate of only 15%, identification of new therapeutic targets for EAC is of great importance. Here, we analyze the mutation spectra from the whole exome sequencing of 149 EAC tumors/normal pairs, 15 of which have also been subjected to whole genome sequencing. We identify a novel mutational signature in EACs defined by a high prevalence of A to C transversions at Ap*A dinucleotides. Statistical analysis of the exome data identified 26 genes that are mutated at a significant frequency. Of these 26 genes, only four (TP53, CDKN2A, SMAD4, and PIK3CA) have been previously implicated in EAC. The novel significantly mutated genes include several chromatin modifying factors and candidate contributors to EAC: SPG20, TLR4, ELMO1, and DOCK2.   Notably, functional analyses of EAC-derived mutations in ELMO1 increase cellular invasion. Therefore, we suggest a new hypothesis about the potential activation of the RAC1 pathway to be a contributor to EAC tumorigenesis.","The study aimed to analyze 150 primary, human esophageal adenocarcinoma samples by whole genome and whole exome sequencing (which will be deposited to dbGAP following the TCGA practice).  RNA expression data was used to determine gene expression in 14 of the samples analyzed by whole genome sequencing. No normals were analyzed.",,14,GPL570,0
+GSE99967,18,6.0,,6.0,0.0,1.0,Identification of a neutrophil-related gene expression signature that distinguishes between adult patients with and without nephritis in active systemic lupus erythematosus,"Both a lack of biomarkers and relatively ineffective treatments constitute impediments to management of lupus nephritis (LN). Here we used gene expression microarrays to contrast the transcriptomic profiles of active SLE patients with and without LN to identify potential biomarkers for LN. RNA isolated from whole peripheral blood of active SLE patients was used for transcriptomic profiling and the data analyzed by linear modeling, with corrections for multiple testing. Results were validated in a second cohort of SLE patients, using NanoString technology. The majority of genes demonstrating altered mRNA abundance between patients with and without LN were neutrophil-related. Findings in the validation cohort confirmed this observation and showed that the levels of gene expression in renal remission were similar to active patients without LN. In secondary analyses, gene expression correlated with disease activity, hematuria and proteinuria, but not renal biopsy changes. As expression levels of the individual genes correlated strongly with each other, a composite neutrophil score was generated by summing all levels before examining additional correlations. There was a modest correlation between the neutrophil score and the blood neutrophil count, which was largely driven by the dose of steroids and not the proportion of low density and/or activated neutrophils. Analysis of longitudinal data revealed no correlation between baseline neutrophil score or changes over the first year of follow-up with subsequent renal flare or treatment outcomes, respectively. The findings argue that although the neutrophil score is associated with LN, its clinical utility as a biomarker may be limited.",Blood samples were collected from 38 patients satisfying 4 or more of the revised 1997 American College of Rheumatology classification criteria for SLE and 17 controls recruited from the University Health Network.,,59,GPL21970,0
+GSE16391,53,6.0,,6.0,4.0,1.0,GGI: a potential predictor of relapse for endocrine-treated breast cancer patients in the BIG 1-98 trial,"Background: We have previously shown that the Gene expression Grade Index (GGI) was able to identify two subtypes of estrogen receptor (ER)-positive tumors that were associated with statistically distinct clinical outcomes in both untreated and tamoxifen-treated patients. Here, we aim to investigate the ability of the GGI to predict relapses in postmenopausal women who were treated with tamoxifen (T) or letrozole (L) within the BIG 1-98 trial. 
+Methods: We generated gene expression profiles (Affymetrix) and computed the GGI for a matched, case-control sample of patients enrolled in the BIG 1-98 trial from the two hospitals where frozen samples were available. All relapses (cases) were identified from patients randomized to receive monotherapy or from the switching treatment arms for whom relapse occurred before the switch.  Each case was randomly matched with four controls based upon nodal status and treatment (T or L).  The prognostic value of GGI was assessed as a continuous predictor and divided at the median.  Predictive accuracy of GGI was estimated using time-dependent area under the curve (AUC) of the ROC curves. 
+Results:  Frozen samples were analyzable for 48 patients (10 cases and 38 controls).  Seven of the 10 cases had been assigned to receive L. Cases and controls were comparable with respect to menopausal and nodal status, local and chemotherapy, and HER2 positivity. Cases were slightly older than controls and had a larger proportion of large, poorly differentiated ER+/PgR- tumors.  The GGI was significantly and linearly related to risk of relapse: each 10-unit increase in GGI resulted in an increase of approximately 11% in the hazard rate (p=0.02).  Within the subgroups of patients with node-positive disease or who were treated with L, the hazard of relapse was significantly greater for patients with GGI at or above the median. AUC reached a maximum of 78% at 27 months.
+Conclusions: This analysis supports the GGI as a good predictor of relapse for ER-positive patients, even among patients who receive L.  Validation of these results, in a larger series from BIG 1-98, is planned using the simplified GGI represented by a smaller set of genes and tested by qRT-PCR on paraffin-embedded tissues. ","Test whether the Gene expression Grade Index (GGI) is a potential predictor of relapse for endocrine-treated breast cancer patients in the BIG 1-98 trial.
+
+55 microarray experiments from primary breast tumors of endocrine-treated patients.
+
+No replicate, no reference sample.",,55,GPL570,0
+GSE65095,203,6.0,,6.0,2.0,3.0,FinHER trial : Patients with human epidermal growth factor receptor 2 (HER2)–positive breast cancer,"The FinHER trial is a multicentre phase 3 randomised adjuvant breast cancer trial that enrolled 1010 patients. The women were randomly assigned to receive three cycles of docetaxel or vinorelbine, followed by three cycles of fluorouracil, epirubicin, and cyclophosphamide.","Of the available Finher HER2 samples, gene mRNA expression data was produced from 202 samples. All samples were re-evaluated to ensure tumour was present in the specimen. RNA was extracted from formalin-fixed, paraffin-embedded (FFPE) primary breast tumour tissue.",,203,GPL13667,0
+GSE66525,22,6.0,,6.0,4.0,1.0,A gene expression profile associated with relapse of cytogenetically normal acute myeloid leukemia is enriched for leukemia stem cell genes,"Relapse, associated with therapy resistance, is a major clinical problem in acute myeloid leukemia (AML), yet little is known about the underlying molecular mechanisms. Using genome wide gene expression profiling on 11 paired samples from diagnosis and relapse, we show that the expression of a substantial number of genes was altered in a highly consistent manner between these disease stages. Furthermore, the relapse associated gene expression profile was significantly enriched for leukemia stem cell (LSC) genes, indicating that recurring AML is characterized by increased stemness, and supporting the concept that it is due to the outgrowth of chemotherapy resistant LSCs.",Paired peripheral blood samples from the times of diagnosis and relapse were obtained from 11 patients with cytogenetically normal AML. cRNA was hybridized to Affymetrix human ST1.1 arrays.,,22,GPL11532,0
+GSE75535,62,5.951612903225806,,5.951612903225806,2.0,1.903225806451613,Gene expresssion profiles of cancer of the appendix,"Appendiceal cancer patients treated with cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) often demonstrate an unpredictable variability in survival outcomes. Biomarkers predictive of CRS/HIPEC efficacy could better guide treatment decisions. In this study we hypothesized that variation in the transcriptional programming of appendiceal tumors might distinguish molecular subtypes with differential outcomes after CRS/HIPEC. The goal of this study was to investigate the potential of a prognostic gene signature to discriminate patients with favorable and unfavorable outcomes in a “discovery” set of patient (the original tumor series (n=24)), and confirm its prognostic value in a second “validation” series (the validation cohort (n=39)).","Total RNA isolated from 24 appendiceal tumors (the original tumor series) and 39 appendiceal tumors (the valdiation series) were profiled on Affymetrix U133A GeneChips and Affymetrix U219 GeneAtlas Array Strips, respectively.",,63,"GPL571
+GPL13667",0
+GSE54747,15,5.0,,5.0,0.0,1.0,An intrahepatic gene expression signature of enhanced immune activity predicts response to peginterferon and adefovir in chronic hepatitis B patients,"In this study we aimed to identify a baseline intrahepatic transcriptional signature associated with response in chronic hepatitis B patients treated with peginterferon-alfa-2a (peg-IFN) and adefovir.
+Liver gene expression values of patients with combined response (responders; n=9) and non-response (n=6) were compared for 21,462 annotated gene transcripts. We identified 182 genes which differed on average more than 1.5-fold, of which 53 were relatively upregulated in non-responders and 129 in responders.","15 liver biopsies of chronic hepatitis B patients were selected for RNA extraction and hybridization on Affymetrix microarrays. Expression values in 9 biopsies of patients with a combined response to therapy were compared with 6 biopsies of non-responders.
+Differentially expressed genes between responders and non-responders were determined using filtering on minimal average expression, fold change (1.5 fold) and p-values from 2-sided t-tests (0 permutations) in GenePattern.",,15,GPL6244,0
+GSE22762,100,5.0,,5.0,6.0,1.0,An eight-gene expression signature for the prediction of survival and time to treatment in chronic lymphocytic leukemia,"Chronic lymphocytic leukemia (CLL) is a common and heterogeneous disease. An accurate prediction of outcome is highly relevant for the development of personalized treatment strategies. Microarray technology was shown to be a useful tool for the development of prognostic gene expression scores. However, there are no gene expression scores which are able to predict overall survival in CLL based on the expression of few genes that are better than established prognostic markers. We correlated 151 CLL microarray data sets with overall survival using Cox regression and supervised principal component analysis to derive a prognostic score. This score based on the expression levels of eight genes and was validated in an independent group of 149 CLL patients by quantitative real time PCR. The score was predictive for overall survival and time to treatment in univariate Cox regression in the validation data set (both: p<0.001) and in a multivariate analysis after adjustment for 17p and 11q deletions and the IgVH-status. The score achieved superior prognostic accuracy compared to models based on genomic aberrations and IgVH-status and may support personalized therapy.",Analysis of 151 samples of peripheral blood mononuclear cells (107 HGU-133plus2; 44 HGU-133A; 44 HGU-133B) from adult patients with chronic lymphocytic leukemia (CLL),,195,"GPL96
+GPL97
+GPL570",0
+GSE37751,28,5.0,,5.0,2.0,3.0,Molecular Profiles of Human Breast Cancer and Their Association with Tumor Subtypes and Disease Prognosis (Affymetrix),"This study identified DNA methylation patterns that were associated with tumor subtypes, disease outcome, and distinct metabolome and gene expression patterns.","This study performed a large scale DNA methylation (Illumina HumanMethylation450 BeadChip [HumanMethylation450 15017482 v.1.1], N=73), gene expression (Affymetrix Human Gene 1.0 ST Array [HuGene-1_0-st], N=108), and metabolome (Metabolon, Inc. Durham, NC) analysis of fresh-frozen human breast tumors from African-American and European-American patients from the greater Baltimore area, Maryland (US), with survival follow-up.",SubSeries of: GSE39004,108,GPL6244,0
+GSE52735,37,5.0,,5.0,3.0,1.0,Gene signature predictive of response to chemotherapy in mCRC [array],The objective is to generate a robust and validated predictor profile for chemotherapy response in patients with mCRC using microarray gene expression profiles of primary colorectal cancer tissue.,"To define a gene signature of response to chemotherapy in metastatic colorectal cancer, samples were obtained from 40 patients from Marques de Valdecilla Hospital who underwent primary surgery. Gene expression was detected and quantified using the Human Whole Genome U133 Plus 2.0 array (Affymetrix), containing 54675 human gene probes. Adequate RNA and microarray analysis were obtained from only 37 patients.",SubSeries of: GSE52847,37,GPL570,0
+GSE31210,212,5.0,,5.0,1.0,1.0,Gene expression data for pathological stage I-II lung adenocarcinomas,"Identification of genes up-regulated in ALK-positive and EGFR/KRAS/ALK-negative lung adenocarcinomas.
+To elucidate molecular characteristics of lung adenocarcinomas (ADCs) with ALK mutations and those without EGFR, KRAS and ALK mutations, 226 primary lung ADCs of pathological stage I-II, examined for the status of EGFR, KRAS and ALK mutations, were subjected to genome-wide expression profiling, and genes up-regulated in lung ADCs with ALK mutations and those without EGFR, KRAS and ALK mutations were identified.  One hundred and seventy-four genes, including ALK, were selected as being up-regulated specifically in 79 lung ADCs without EGFR and KRAS mutations.  These 79 cases were divided into:  11 cases of ALK-positive ADCs, 36 cases of group A triple-negative ADCs, and 32 cases of group B triple-negative ADCs, by unsupervised clustering according to the expression of the 174 genes.  In ALK-positive ADCs, 30 genes, including ALK itself and GRIN2A, were significantly overexpressed.  Group A triple-negative ADC cases showed significantly worse prognoses for relapse and death than ADC cases with EGFR, KRAS or ALK mutations and group B triple-negative ADC cases.  Nine genes were identified as being significantly up-regulated in group A triple-negative ADC cases and critical for predicting their prognosis.  The nine genes included DEPDC1, which had been identified as a candidate diagnostic and therapeutic target in bladder and breast cancers.  Genes discriminating this group of ADCs will be useful for selection of patients who will benefit from adjuvant chemotherapy after surgical resection of stage I-II triple-negative ADCs and also informative for the development of molecular targeting therapies for these patients.","Expression profiles in of 226 lung adenocarcinomas (127 with EGFR mutation, 20 with KRAS mutation, 11 with EML4-ALK fusion and 68 triple negative cases).",Affiliated with: GSE67639,246,GPL570,0
+GSE31519,67,4.940298507462686,,4.940298507462686,0.0,1.8955223880597014,A Clinically Relevant Gene Signature in Triple-Negative and Basal-Like Breast Cancer,"Current prognostic gene expression profiles for breast cancer mainly reflect proliferation status and are most useful in ER-positive cancers. Triple-negative breast cancers (TNBCs) are clinically heterogeneous, and prognostic markers and biology-based therapies are needed to better treat this disease.
+
+We assembled Affymetrix gene expression data for 579 TNBCs and performed unsupervised analysis to define metagenes that distinguish molecular subsets within TNBC. We used n=394 cases for discovery and n=185 cases for validation. Sixteen metagenes emerged that identified basal-like, apocrine and claudin-low molecular subtypes, or reflected various non-neoplastic cell populations including immune cells, blood, adipocytes, stroma, angiogenesis, and inflammation within the cancer. The expressions of these metagenes were correlated with survival and multivariate analysis was performed including routine clinical and pathological variables.
+
+73% of TNBCs displayed basal-like molecular subtype that correlated with high histological grade and younger age. Survival of basal-like TNBC was not different from non-basal-like TNBC. High expression of immune cell metagenes was associated with good and high expression of inflammation and angiogenesis-related metagenes were associated with poor prognosis. A ratio of high B-cell and low IL-8 metagenes identified 32% of TNBC with good prognosis (HR 0.37, 95% CI 0.22-0.61; P<0.001) and was the only significant predictor in multivariate analysis including routine clincopathological variables.
+
+We describe a ratio of high B-cell presence and low IL-8 activity as a powerful new prognostic marker for TNBC. Inhibition of the IL-8 pathway also represents an attractive novel therapeutic target for this disease.","Analysis of primary breast cancer biopsies from patients before treatment. No replicates. No control or reference samples are included.
+
+The set of 579 TNBCs includes: (1) 67 new GEO Samples (GSM782523-GSM782589), (2) 489 re-analyzed GEO Samples (see 'Relation' links below), and (3) 23 re-analyzed ArrayExpress Samples.
+
+Cohorts:
+HH = University of Hamburg
+FRA = University of Frankfurt, adjuvant chemotherapy
+FRA-2 = University of Frankfurt, neoadjuvant chemotherapy
+FRA-3 = University of Frankfurt, no adjuvant chemotherapy
+
+Data processing of the 579 TNBC Samples:
+
+MAS5 values were taken from GEO if available. For samples with no MAS5 values, CEL files were downloaded from GEO and the affy package from Bioconductor was used to generate MAS5 values. Next, MAS5 values corresponding only to the 22283 probesets from the U133A array were compiled. Subsequently, normalization of MAS5 data was performed using the command line version of the program CLUSTER 3.0 (Michael Eisen; updated by Michiel de Hoon; http://bonsai.hgc.jp/~mdehoon/software/cluster/command.txt).
+
+The following three steps were performed in the following order:
+1. log2 transformation of MAS5 values
+2. median centering of arrays
+3. magnitude normalization of arrays
+
+These three steps correspond to the following commands:
+cluster.com filename -l
+cluster.com filename -ca m
+cluster.com filename -na
+
+The resulting dataset, which is linked below as a supplementary file, was used for the subsequent analyses.","Reanalysis of: GSM102506
+Reanalysis of: GSM102525
+Reanalysis of: GSM102526
+Reanalysis of: GSM102545
+Reanalysis of: GSM102564
+Reanalysis of: GSM107076
+Reanalysis of: GSM107084
+Reanalysis of: GSM107094
+Reanalysis of: GSM107114
+Reanalysis of: GSM107117
+Reanalysis of: GSM107120
+Reanalysis of: GSM107124
+Reanalysis of: GSM107128
+Reanalysis of: GSM107131
+Reanalysis of: GSM107143
+Reanalysis of: GSM107144
+Reanalysis of: GSM107148
+Reanalysis of: GSM107150
+Reanalysis of: GSM107153
+Reanalysis of: GSM107157
+Reanalysis of: GSM107167
+Reanalysis of: GSM107181
+Reanalysis of: GSM107201
+Reanalysis of: GSM107204
+Reanalysis of: GSM107206
+Reanalysis of: GSM107210
+Reanalysis of: GSM107211
+Reanalysis of: GSM107217
+Reanalysis of: GSM107224
+Reanalysis of: GSM107225
+Reanalysis of: GSM117581
+Reanalysis of: GSM117661
+Reanalysis of: GSM117692
+Reanalysis of: GSM120649
+Reanalysis of: GSM120651
+Reanalysis of: GSM120655
+Reanalysis of: GSM120656
+Reanalysis of: GSM120657
+Reanalysis of: GSM120658
+Reanalysis of: GSM120660
+Reanalysis of: GSM120663
+Reanalysis of: GSM120666
+Reanalysis of: GSM120668
+Reanalysis of: GSM120671
+Reanalysis of: GSM120672
+Reanalysis of: GSM120674
+Reanalysis of: GSM120675
+Reanalysis of: GSM120677
+Reanalysis of: GSM120679
+Reanalysis of: GSM120682
+Reanalysis of: GSM120683
+Reanalysis of: GSM120684
+Reanalysis of: GSM120685
+Reanalysis of: GSM120686
+Reanalysis of: GSM120687
+Reanalysis of: GSM120688
+Reanalysis of: GSM120690
+Reanalysis of: GSM120691
+Reanalysis of: GSM120692
+Reanalysis of: GSM120695
+Reanalysis of: GSM120696
+Reanalysis of: GSM120698
+Reanalysis of: GSM120699
+Reanalysis of: GSM120701
+Reanalysis of: GSM120702
+Reanalysis of: GSM120703
+Reanalysis of: GSM120705
+Reanalysis of: GSM120706
+Reanalysis of: GSM121673
+Reanalysis of: GSM121675
+Reanalysis of: GSM121678
+Reanalysis of: GSM121684
+Reanalysis of: GSM121685
+Reanalysis of: GSM121690
+Reanalysis of: GSM121692
+Reanalysis of: GSM121693
+Reanalysis of: GSM121697
+Reanalysis of: GSM121700
+Reanalysis of: GSM121703
+Reanalysis of: GSM121708
+Reanalysis of: GSM121709
+Reanalysis of: GSM121721
+Reanalysis of: GSM121724
+Reanalysis of: GSM121758
+Reanalysis of: GSM121763
+Reanalysis of: GSM121764
+Reanalysis of: GSM121765
+Reanalysis of: GSM121768
+Reanalysis of: GSM121772
+Reanalysis of: GSM121777
+Reanalysis of: GSM121781
+Reanalysis of: GSM121800
+Reanalysis of: GSM121807
+Reanalysis of: GSM121812
+Reanalysis of: GSM121818
+Reanalysis of: GSM121822
+Reanalysis of: GSM121824
+Reanalysis of: GSM121825
+Reanalysis of: GSM121833
+Reanalysis of: GSM121834
+Reanalysis of: GSM121836
+Reanalysis of: GSM121848
+Reanalysis of: GSM121851
+Reanalysis of: GSM121852
+Reanalysis of: GSM125130
+Reanalysis of: GSM138011
+Reanalysis of: GSM150795
+Reanalysis of: GSM150797
+Reanalysis of: GSM151295
+Reanalysis of: GSM151309
+Reanalysis of: GSM152339
+Reanalysis of: GSM152343
+Reanalysis of: GSM152344
+Reanalysis of: GSM152349
+Reanalysis of: GSM152352
+Reanalysis of: GSM152357
+Reanalysis of: GSM152361
+Reanalysis of: GSM152698
+Reanalysis of: GSM177885
+Reanalysis of: GSM177897
+Reanalysis of: GSM177898
+Reanalysis of: GSM177899
+Reanalysis of: GSM177903
+Reanalysis of: GSM177909
+Reanalysis of: GSM177913
+Reanalysis of: GSM177925
+Reanalysis of: GSM177935
+Reanalysis of: GSM177937
+Reanalysis of: GSM177943
+Reanalysis of: GSM177944
+Reanalysis of: GSM177954
+Reanalysis of: GSM177956
+Reanalysis of: GSM177963
+Reanalysis of: GSM177966
+Reanalysis of: GSM177970
+Reanalysis of: GSM177978
+Reanalysis of: GSM177979
+Reanalysis of: GSM177980
+Reanalysis of: GSM177985
+Reanalysis of: GSM177988
+Reanalysis of: GSM177993
+Reanalysis of: GSM177994
+Reanalysis of: GSM177999
+Reanalysis of: GSM178003
+Reanalysis of: GSM178009
+Reanalysis of: GSM178012
+Reanalysis of: GSM178013
+Reanalysis of: GSM178016
+Reanalysis of: GSM178021
+Reanalysis of: GSM178023
+Reanalysis of: GSM178034
+Reanalysis of: GSM178035
+Reanalysis of: GSM178058
+Reanalysis of: GSM178065
+Reanalysis of: GSM178075
+Reanalysis of: GSM178078
+Reanalysis of: GSM178079
+Reanalysis of: GSM178082
+Reanalysis of: GSM179854
+Reanalysis of: GSM179885
+Reanalysis of: GSM232199
+Reanalysis of: GSM232204
+Reanalysis of: GSM26871
+Reanalysis of: GSM26878
+Reanalysis of: GSM26880
+Reanalysis of: GSM26882
+Reanalysis of: GSM26883
+Reanalysis of: GSM26884
+Reanalysis of: GSM26886
+Reanalysis of: GSM26887
+Reanalysis of: GSM26888
+Reanalysis of: GSM26889
+Reanalysis of: GSM26892
+Reanalysis of: GSM26893
+Reanalysis of: GSM26895
+Reanalysis of: GSM26898
+Reanalysis of: GSM26902
+Reanalysis of: GSM26903
+Reanalysis of: GSM26905
+Reanalysis of: GSM26906
+Reanalysis of: GSM26908
+Reanalysis of: GSM26910
+Reanalysis of: GSM26912
+Reanalysis of: GSM272166
+Reanalysis of: GSM272167
+Reanalysis of: GSM272221
+Reanalysis of: GSM272242
+Reanalysis of: GSM272287
+Reanalysis of: GSM282385
+Reanalysis of: GSM282398
+Reanalysis of: GSM282413
+Reanalysis of: GSM282427
+Reanalysis of: GSM282435
+Reanalysis of: GSM282440
+Reanalysis of: GSM282446
+Reanalysis of: GSM282454
+Reanalysis of: GSM282457
+Reanalysis of: GSM282464
+Reanalysis of: GSM282465
+Reanalysis of: GSM282474
+Reanalysis of: GSM282482
+Reanalysis of: GSM282493
+Reanalysis of: GSM282497
+Reanalysis of: GSM282511
+Reanalysis of: GSM282528
+Reanalysis of: GSM282535
+Reanalysis of: GSM282551
+Reanalysis of: GSM282565
+Reanalysis of: GSM282569
+Reanalysis of: GSM305166
+Reanalysis of: GSM308312
+Reanalysis of: GSM308329
+Reanalysis of: GSM320216
+Reanalysis of: GSM320228
+Reanalysis of: GSM320230
+Reanalysis of: GSM320234
+Reanalysis of: GSM320237
+Reanalysis of: GSM346882
+Reanalysis of: GSM346883
+Reanalysis of: GSM346884
+Reanalysis of: GSM346885
+Reanalysis of: GSM346886
+Reanalysis of: GSM346889
+Reanalysis of: GSM346890
+Reanalysis of: GSM346892
+Reanalysis of: GSM346900
+Reanalysis of: GSM346904
+Reanalysis of: GSM36788
+Reanalysis of: GSM36793
+Reanalysis of: GSM36795
+Reanalysis of: GSM36797
+Reanalysis of: GSM36798
+Reanalysis of: GSM36809
+Reanalysis of: GSM36822
+Reanalysis of: GSM36824
+Reanalysis of: GSM36828
+Reanalysis of: GSM36835
+Reanalysis of: GSM36846
+Reanalysis of: GSM36855
+Reanalysis of: GSM36862
+Reanalysis of: GSM36876
+Reanalysis of: GSM36883
+Reanalysis of: GSM36889
+Reanalysis of: GSM36890
+Reanalysis of: GSM36891
+Reanalysis of: GSM36901
+Reanalysis of: GSM36905
+Reanalysis of: GSM36906
+Reanalysis of: GSM36909
+Reanalysis of: GSM36912
+Reanalysis of: GSM36923
+Reanalysis of: GSM36927
+Reanalysis of: GSM36931
+Reanalysis of: GSM36935
+Reanalysis of: GSM36949
+Reanalysis of: GSM36952
+Reanalysis of: GSM36959
+Reanalysis of: GSM36960
+Reanalysis of: GSM36961
+Reanalysis of: GSM36966
+Reanalysis of: GSM36969
+Reanalysis of: GSM36977
+Reanalysis of: GSM36981
+Reanalysis of: GSM36991
+Reanalysis of: GSM37002
+Reanalysis of: GSM37017
+Reanalysis of: GSM37021
+Reanalysis of: GSM37022
+Reanalysis of: GSM37044
+Reanalysis of: GSM37045
+Reanalysis of: GSM37047
+Reanalysis of: GSM37048
+Reanalysis of: GSM37050
+Reanalysis of: GSM37051
+Reanalysis of: GSM38092
+Reanalysis of: GSM46933
+Reanalysis of: GSM46938
+Reanalysis of: GSM46952
+Reanalysis of: GSM46968
+Reanalysis of: GSM50035
+Reanalysis of: GSM50040
+Reanalysis of: GSM50041
+Reanalysis of: GSM50045
+Reanalysis of: GSM50046
+Reanalysis of: GSM50048
+Reanalysis of: GSM50050
+Reanalysis of: GSM50052
+Reanalysis of: GSM50055
+Reanalysis of: GSM50057
+Reanalysis of: GSM50058
+Reanalysis of: GSM50060
+Reanalysis of: GSM50061
+Reanalysis of: GSM50063
+Reanalysis of: GSM50064
+Reanalysis of: GSM50066
+Reanalysis of: GSM50067
+Reanalysis of: GSM50069
+Reanalysis of: GSM50070
+Reanalysis of: GSM50071
+Reanalysis of: GSM50073
+Reanalysis of: GSM50075
+Reanalysis of: GSM50079
+Reanalysis of: GSM50089
+Reanalysis of: GSM50092
+Reanalysis of: GSM50093
+Reanalysis of: GSM50094
+Reanalysis of: GSM50096
+Reanalysis of: GSM50102
+Reanalysis of: GSM50106
+Reanalysis of: GSM50107
+Reanalysis of: GSM50112
+Reanalysis of: GSM50119
+Reanalysis of: GSM50123
+Reanalysis of: GSM50125
+Reanalysis of: GSM505331
+Reanalysis of: GSM505333
+Reanalysis of: GSM505336
+Reanalysis of: GSM505343
+Reanalysis of: GSM505345
+Reanalysis of: GSM505350
+Reanalysis of: GSM505351
+Reanalysis of: GSM505357
+Reanalysis of: GSM505358
+Reanalysis of: GSM505359
+Reanalysis of: GSM505360
+Reanalysis of: GSM505369
+Reanalysis of: GSM505370
+Reanalysis of: GSM505372
+Reanalysis of: GSM505411
+Reanalysis of: GSM505413
+Reanalysis of: GSM505417
+Reanalysis of: GSM505421
+Reanalysis of: GSM505423
+Reanalysis of: GSM505428
+Reanalysis of: GSM505435
+Reanalysis of: GSM505449
+Reanalysis of: GSM505450
+Reanalysis of: GSM505459
+Reanalysis of: GSM505460
+Reanalysis of: GSM505462
+Reanalysis of: GSM505467
+Reanalysis of: GSM505473
+Reanalysis of: GSM505487
+Reanalysis of: GSM505513
+Reanalysis of: GSM505514
+Reanalysis of: GSM505516
+Reanalysis of: GSM505517
+Reanalysis of: GSM505526
+Reanalysis of: GSM505527
+Reanalysis of: GSM505528
+Reanalysis of: GSM505531
+Reanalysis of: GSM505533
+Reanalysis of: GSM505534
+Reanalysis of: GSM505541
+Reanalysis of: GSM505543
+Reanalysis of: GSM505545
+Reanalysis of: GSM505548
+Reanalysis of: GSM505552
+Reanalysis of: GSM505553
+Reanalysis of: GSM505554
+Reanalysis of: GSM505561
+Reanalysis of: GSM505562
+Reanalysis of: GSM505563
+Reanalysis of: GSM505564
+Reanalysis of: GSM505566
+Reanalysis of: GSM505568
+Reanalysis of: GSM505570
+Reanalysis of: GSM505572
+Reanalysis of: GSM505574
+Reanalysis of: GSM505575
+Reanalysis of: GSM505580
+Reanalysis of: GSM505583
+Reanalysis of: GSM505584
+Reanalysis of: GSM505586
+Reanalysis of: GSM505588
+Reanalysis of: GSM505592
+Reanalysis of: GSM53031
+Reanalysis of: GSM53033
+Reanalysis of: GSM53172
+Reanalysis of: GSM53187
+Reanalysis of: GSM65839
+Reanalysis of: GSM65841
+Reanalysis of: GSM65842
+Reanalysis of: GSM65843
+Reanalysis of: GSM65845
+Reanalysis of: GSM65852
+Reanalysis of: GSM65861
+Reanalysis of: GSM65865
+Reanalysis of: GSM65876
+Reanalysis of: GSM65878
+Reanalysis of: GSM65879
+Reanalysis of: GSM79115
+Reanalysis of: GSM79117
+Reanalysis of: GSM79122
+Reanalysis of: GSM79145
+Reanalysis of: GSM79147
+Reanalysis of: GSM79165
+Reanalysis of: GSM79191
+Reanalysis of: GSM79195
+Reanalysis of: GSM79196
+Reanalysis of: GSM79225
+Reanalysis of: GSM79231
+Reanalysis of: GSM79251
+Reanalysis of: GSM79253
+Reanalysis of: GSM79255
+Reanalysis of: GSM79270
+Reanalysis of: GSM79271
+Reanalysis of: GSM79280
+Reanalysis of: GSM79287
+Reanalysis of: GSM79292
+Reanalysis of: GSM79299
+Reanalysis of: GSM79303
+Reanalysis of: GSM79306
+Reanalysis of: GSM79322
+Reanalysis of: GSM79329
+Reanalysis of: GSM79336
+Reanalysis of: GSM79344
+Reanalysis of: GSM79356
+Reanalysis of: GSM85474
+Reanalysis of: GSM85476
+Reanalysis of: GSM85477
+Reanalysis of: GSM85478
+Reanalysis of: GSM85479
+Reanalysis of: GSM85480
+Reanalysis of: GSM85481
+Reanalysis of: GSM85482
+Reanalysis of: GSM85483
+Reanalysis of: GSM85484
+Reanalysis of: GSM85485
+Reanalysis of: GSM85486
+Reanalysis of: GSM85487
+Reanalysis of: GSM85489
+Reanalysis of: GSM85490
+Reanalysis of: GSM85492
+Reanalysis of: GSM89023
+Reanalysis of: GSM308259
+Reanalysis of: GSM308261
+Reanalysis of: GSM308271
+Reanalysis of: GSM308272
+Reanalysis of: GSM308273
+Reanalysis of: GSM308275
+Reanalysis of: GSM308280
+Reanalysis of: GSM308281
+Reanalysis of: GSM308283
+Reanalysis of: GSM308285
+Reanalysis of: GSM308290
+Reanalysis of: GSM308295
+Reanalysis of: GSM308301
+Reanalysis of: GSM308307
+Reanalysis of: GSM308309
+Reanalysis of: GSM308311
+Reanalysis of: GSM308313
+Reanalysis of: GSM308314
+Reanalysis of: GSM308316
+Reanalysis of: GSM308324
+Reanalysis of: GSM308328
+Reanalysis of: GSM308330
+Reanalysis of: GSM308333
+Reanalysis of: GSM308335
+Reanalysis of: GSM308336
+Reanalysis of: GSM308338
+Reanalysis of: GSM308339
+Reanalysis of: GSM308340
+Reanalysis of: GSM308341
+Reanalysis of: GSM308344
+Reanalysis of: GSM308346
+Reanalysis of: GSM308348
+Reanalysis of: GSM308349
+Reanalysis of: GSM308350
+Reanalysis of: GSM308352
+Reanalysis of: GSM308354
+Reanalysis of: GSM308356
+Reanalysis of: GSM308364
+Reanalysis of: GSM308374
+Reanalysis of: GSM308376
+Reanalysis of: GSM308377
+Reanalysis of: GSM308378
+Reanalysis of: GSM308380
+Reanalysis of: GSM308388
+Reanalysis of: GSM308391
+Reanalysis of: GSM308392
+Reanalysis of: GSM308393
+Reanalysis of: GSM308394
+Reanalysis of: GSM308404
+Reanalysis of: GSM308405
+Reanalysis of: GSM308407
+Reanalysis of: GSM308408
+Reanalysis of: GSM308438
+Reanalysis of: GSM308449",67,GPL96,0
+GSE36295,43,4.837209302325581,,4.837209302325581,0.8837209302325582,1.9534883720930232,Transcriptomic analysis of breast cancer,Transcriptomic analysis of fresh breast cancer tissue versus normal tissues. The Study comprising 45 Saudi-Arabian subjects was designed to take advantage of transcriptomics to prospectively explore the roles of lifestyle and genetic susceptibility in the occurrence of breast cancer.,"Total RNA isolated from 45 surgically resected breast cancer tissues and 8 healthy breast tissues (3 from Affymetrix) and purified, labeled, and hybridized to Affymetrix Human Gene 1.0 ST Array.","Reanalysis of: GSM886557
+Reanalysis of: GSM886558
+Reanalysis of: GSM886559",50,GPL6244,0
+GSE42743,98,4.0,,4.0,1.0,1.0,"Oral Cavity Cancer Compared to Adjacent ""Normal"" Tissue [Validation Set]",Oral Cavity Cancer,"Comparative analysis of gene expression using Affymetrix U133 plus 2.0 microarrays to compare differences between oral cancer samples (most HPV-) and adjacent ""normal"" mucosa.   We have 24 matched pairs of tumor and normal from the same patient",,103,GPL570,0
+GSE65184,4,4.0,,4.0,4.0,0.0,Expression changes in pre MAPKi treatment and post MAPKi resistance Melanomas,"Melanoma resistance to MAPK- or T cell checkpoint-targeted therapies represents a major clinical challenge, and treatment failures of MAPK-targeted therapies due to acquired resistance often require salvage immunotherapies. We show that genomic analysis of acquired resistance to MAPK inhibitors revealed key driver genes but failedto adequately account for clinical resistance. From a large-scale comparative analysis of temporal transcriptomes from patient-matched tumor biopsies, we discovered highly recurrent differential expression and signature outputs of c-MET, LEF1 and YAP1 as drivers of acquired MAPK inhibitor resistance. Moreover, integration of gene- and signature-based transcriptomic analysis revealed profound CD8 T cell deficiency detected in half of resistant melanomas in association with downregulation of dendritic cells and antigen presentation. We also propose a major methylomic basis to transcriptomic evolution under MAPK inhibitor selection. Thus, this database provides a rich informational resource, and the current landscape represents a benchmark to understanding melanoma therapeutic resistance.",Melanoma biopsies pre and post MAPKi treatment were sent for transcriptomic analysis using Affymetrix HuGene 2.1 microarray,SubSeries of: GSE65186,4,GPL17692,0
+GSE95770,16,4.0,,4.0,9.0,0.0,Sorafenib promotes graft-versus-leukemia activity in mice and humans through IL-15 production in FLT3-ITD mutant leukemia cells,"Patients relapsing with FLT3-ITD mutant acute myeloid leukemia (AML) after allogeneic hematopoietic cell transplantation (allo-HCT) have a one-year-survival below 20%. We  observed that sorafenib increased IL-15 production by FLT3-ITD+-leukemia cells, which synergized with the allogeneic CD8+T-cell response, leading to long-term survival in murine   and humanized FLT3-ITD+AML models. Using IL-15 deficiency in recipient tissues or leukemia cells, IL-15 production upon sorafenib-treatment could be attributed to leukemia cells. Sorafenib treatment-related IL-15 production caused an increase in CD8+CD107a+IFN-γ+ T-cells with features of longevity (Bcl-2high/reduced PD-1-levels), which eradicated leukemia in secondary recipients. Mechanistically, sorafenib reduced ATF4 expression, thereby blocking negative regulation of IRF7-activation, which enhances IL-15 transcription. Consistent with the mouse data, IL-15 and pIRF7 levels increased in leukemic blasts of  FLT3-ITD+AML patients upon sorafenib treatment. Analysis of 130 patients with FLT3-ITD-mutant AML relapsing after allo-HCT showed the highest complete remission-rate and median overall-survival-rate in the sorafenib/donor lymphocyte infusion (DLI) group compared to all other groups (chemotherapy, chemotherapy/DLI, sorafenib alone). Our findings indicate that the synergism of DLI and sorafenib is mediated via reduced ATF4 expression, causing activation of the pIRF7/IL-15-axis in leukemia cells. The sorafenib/DLI strategy therefore has the potential for an immune-mediated cure of FLT3-ITD-mutant AML-  relapse, an otherwise fatal complication after allo-HCT.","Peripheral blood mononuclear cells (PBMC) from patients relapsing after allograft transplantation were extracted three days before and six days after treatment with sorafenib. 4 patients, marked as responders, showed a favorable outcome event after 6 months, while 4 patients. marked as non-responders. did not respond to sorafenib treatment.",,16,GPL23159,0
+GSE41498,1,4.0,,4.0,6.0,4.0,Profiling of ovarian tumour and benign lesions,Investigation of malignancy-associated expression of gene sets based on ovarian tumour histone modification status.,"A single serous epithelial ovarian tumour (which was assayed using ChIP-seq to determine histone modification profiles; SRA059358) was profiled using the HGU133 plus 2 GeneChip, along with 8 benign ovarian lesions (1 serous cyst, 3 serous cystadenomas and 4 serous cystadenofibromas) for comparison. Expression levels of genes marked in the tumour with particular histone modifications were compared between the tumour and the benign samples.",SubSeries of: GSE41500,9,GPL570,0
+GSE23720,197,4.0,,4.0,4.0,0.0,High-resolution comparative genomic hybridization of inflammatory breast cancer and identification of candidate genes,"Inflammatory breast cancer (IBC) is an aggressive form of BC poorly defined at the molecular level. We compared the molecular portraits of 63 IBC and 134 non-IBC (nIBC) clinical samples. Genomic imbalances of 49 IBCs and 124 nIBCs were determined using high-resolution array-comparative genomic hybridization, and mRNA expression profiles of 197 samples using whole-genome microarrays. Genomic profiles of IBCs were as heterogeneous as those of nIBCs, and globally relatively close. However, IBCs showed more frequent “complex” patterns and a higher percentage of genes with CNAs per sample. The number of altered regions was similar in both types, although some regions were altered more frequently and/or with higher amplitude in IBCs. Many genes were similarly altered in both types; however, more genes displayed recurrent amplifications in IBCs.","Pre-treatment tumor tissues were collected from 197 patients with invasive adenocarcinomas. Patients underwent surgical biopsies or initial surgery at the Institut Paoli-Calmettes (IPC, Marseille, France) between 1987 and 2007. Each patient gave written informed consent and the study was approved by the IPC “Comité d’Orientation Stratégique”. Tumor samples were macrodissected and frozen in liquid nitrogen within 30 minutes of removal. Before RNA extraction, tumor sections were reviewed by two pathologists and contained more than 60% of tumor cells. Gene expression data of the 197 BCs were quantified using whole-genome DNA microarrays (HG-U133 Plus 2.0, Affymetrix).",,370,"GPL570
+GPL9128",0
+GSE41408,48,4.0,,4.0,0.0,2.0,Co-expression of genes with ERG in prostate cancers,"ERG overexpression is the most frequent molecular alteration in prostate cancer. We analyzed different stages of prostate cancer to identify genes that were coexpressed with ERG overexpression. In primary prostate tumors, it was shown that TDRD1 expression was the strongest correlated gene with ERG overexpression and we suggest TDRD1 as a direct ERG target gene.",48 Prostate cancer samples from radical prostatectomies were included in this study. These samples contained more than 70% cancer and less than 30% stromal tissue. Each sample was analyzed once.,SubSeries of: GSE41410,48,GPL5175,0
+GSE115577,429,4.0,,4.0,2.0,2.0,Tumor & Tumor-Adj Gene Expression in the Nurses' Health Study Cohorts,Gene expression data from the Nurses' Health Study,Total of 1577 samples which includes 882 tumor and 695 tumor-adjacent tissues from participants of the Nurses' Heath Study I and II diagnosed with invasive breast cancer. This deposit contains 467 files; remaining 1110 files are in GSE93601.,,1577,GPL17585;GPL22920,0
+GSE75311,6,4.0,,4.0,8.0,0.0,Expression changes in Melanomas pre MAPKi treatment vs. on MAPKi treatment (Affymetrix),"Treatment of advanced V600BRAF mutant melanoma using a BRAF inhibitor (BRAFi) or its combination with a MEKi typically elicits partial responses. We compared the transcriptomes of patient-derived tumors regressing on MAPKi therapy against MAPKi-induced temporal transcriptomic states in human melanoma cell lines or murine melanoma in immune-competent mice. Despite heterogeneous dynamics of clinical tumor regression, residual tumors displayed highly recurrent transcriptomic alterations and enriched processes, which were also observed in MAPKi-selected cell lines (implying tumor cell-intrinsic reprogramming) or in bulk mouse tumors (and the CD45-negative or -positive fractions,, implying tumor cell-intrinsic or stromal/immune alterations, respectively). Tumor cell-intrinsic reprogramming attenuated MAPK-dependency, while enhancing mesenchymal, angiogenic and IFN-inflammatory features and growth/survival dependence on multi-RTKs and PD-L2. In the immune compartment, PD-L2 upregulation in CD11c+ immunocytes drove the loss of T-cell inflammation and promoted BRAFi resistance. Thus, residual melanoma early on MAPKi therapy already displays potentially exploitable adaptive transcriptomic, epigenomic, immune-regulomic alterations.",Melanoma biopsies pre and on MAPKi treatment were sent for transcriptomic analysis using Affymetrix HuGene 1.0 microarray,SubSeries of: GSE75313,6,GPL6244,0
+GSE18864,84,3.2857142857142856,,3.2857142857142856,5.714285714285714,1.0,Tumor expression data from neoadjuvant trial of cisplatin monotherapy in triple negative breast cancer patients,"Evidence suggests that BRCA1 mutation associated tumors have increased sensitivity to DNA damaging agents like cisplatin.  Sporadic triple negative breast cancers (TNBC) have many phenotypic similarities to BRCA1 tumors and may have a similar sensitivity to cisplatin.  We tested the efficacy of cisplatin monotherapy in 28 TNBC patients in a single arm neoadjuvant trial with outcome measured by pathologic treatment response quantified using the Miller-Payne scale.
+We used microarrays gene expression profiles to determine tumor subtype of each trial tumor sample and to test various expression signatures for association with pathologic response to cisplatin.","Pretreatment tumor samples from the clinical trial (N=24 with adequate tissue) were used for RNA extraction, linear amplification, biotin labeling and hybridization to Affymetrix U133 plus 2.0 arrays.  A reference set of 51 primary breast tumors representing all subtypes of breast cancer were processed in a similar manner to include linear amplification, and hybridized to Affymetrix arrays.",,84,GPL570,0
+GSE36296,3,3.0,,3.0,0.0,2.0,Affymetrix Control Samples,Control samples from Affymetrix,various control samples,,3,GPL6244,0
+GSE73066,35,3.0,,3.0,4.0,0.0,Transcriptional profiles of pilocytic astrocytoma,"Pilocytic astrocytoma is the most common type of brain tumor in pediatric population, generally connected with favorable prognosis, although recurrences or dissemination sometimes are also observed. For tumors originating in supra- or infratentorial location different molecular background was suggested but plausible correlations between transcriptional profile and radiological features and/or clinical course are still undefined. The purpose of this study was to identify gene expression profiles related to the most frequent locations of this tumor, subtypes based on various radiological features and clinical pattern of the disease.   According to the radiological features presented on MRI, all cases were divided into four subtypes: solid or mainly solid, cystic with an enhancing cyst wall, cystic with a non-enhancing cyst wall and solid with central necrosis. Bioinformatic analyses showed that gene expression profile of pilocytic astrocytoma highly depends on the tumor location. Most prominent differences were noted for IRX2, PAX3, CXCL14, LHX2, SIX6, CNTN1 and SIX1 genes expression which could distinguish pilocytic astrocytomas of different location even within supratentorial region. Analysis of the genes potentially associated between radiological features showed much weaker transcriptome differences. Single genes showed association with the tendency to progression.   Here we showed that pilocytic astrocytomas of three different locations could be precisely differentiated on the basis of gene expression level but their transcriptional profiles did not strongly reflect the radiological appearance of the tumor or the course of the disease.","Gene expression profiling was performed in 47 pilocytic astrocytoma tumours characterized by different localization, radiology and progression.",,47,GPL570,0
+GSE31546,14,3.0,,3.0,0.0,2.0,UMCCC Primary Lung Cancer Specimens,Develop an EGFR mutation gene expression signature to aid in predicting response and clinical outcome and to identify genes associated with the EGFR-dependent phenotype,17 primary lung adenocarcinomas were analyzed with Affymetrix U133-plus2,SubSeries of: GSE31908,17,GPL570,0
+GSE15258,73,2.0,,2.0,0.0,1.0,Whole blood transcript profiling of rheumatoid arthritis patients,The whole blood was collected pre-treatment from rheumatoid arthritis patients starting the anti_TNF therapy. All patients were naïve to anti_TNFs. The disease activity was measured using the DAS28 score at the pre-treatment visit1 (DAS28_v1)  and 14 weeks after treatment visit3 (DAS28_v3). The response to the therapy was evaluated using the EULAR [European League Against Rheumatism] definition of the response. The objective of the data analysis was to identify gene expression coorelating with response as well as to identify genes that differentiate responders versus non-responders pre-treatment. The results of this investigation identified 8 trainscripts that predict responders vs. non-responders with 89% accuracy.,"Patients' response to anti-TNF was assessed using EULAR score and patients were classified as responders, moderate responders and non-responders. Genes correlating with the response status have been identified.",,86,GPL570,0
+GSE37168,16,2.0,,2.0,3.0,1.0,Expression data from chronic lymphocytic leukemia (CLL) tumors in two time points,"As part of a large genetic evolution study we also acquired 3'UTR expression arrays at two time points for the same 18 patients with CLL.
+We have analysed the data to evaluate whether genetic evolution (somatic mutations and Somatic copy number alterations) also manifested at the transcriptome level, either globally, or at the level of pre-defined curated geneset that correspond to specfic evolving genetic lesions.","Samples were collected at two time points along the patients clinical course, with 13 patients having samples before treatment and at relapse, and 5 patients that were long term non progressors had sampling at two time points without intevening therapy.",,40,GPL570,0
+GSE42296,77,2.0,,2.0,0.0,1.0,"Distinct, non-overlapping gene panels of peripheral blood gene expression predict response to infliximab therapy in rheumatoid arthritis and Crohn's disease",We used microarrays to identify markers predicting responder status in infliximab treatment in 19 rheumatoid arthritis and 20 Crohn's disease patients at week 0 and week 2 of treatment.,Peripheral blood samples were obtained at week 0 and week 2 of inxliximab treatment and global gene expression profiling identified markers of responder status.,,78,GPL6244,0
+GSE15913,39,2.0,,2.0,4.0,0.0,Thalidomide Exerts Distinct Molecular Antileukemic Effects,"Thalidomide Exerts Distinct Molecular Antileukemic Effects and Combined Thalidomide/Fludarabine Therapy is Clinically Effective in High-Risk Chronic Lymphocytic Leukemia
+
+Background: Thalidomide represents a promising immunomodulatory drug that targets both leukemia cells and the tumor microenvironment.
+Methods: We treated chronic lymphocytic leukemia (CLL) patients with a combined thalidomide/fludarabine regimen and monitored cellular and molecular changes induced by thalidomide in-vivo prior to fludarabine treatment. Thalidomide was given daily (100mg p.o./day) and fludarabine was administered on days 7-11 (25 mg/m² i.v./day) within each 4-week cycle (maximum of 6 cycles). Twenty patients received thalidomide/fludarabine as first line therapy and 20 patients were previously treated. Unmutated IgVH mutation status was found in 36 cases and 13 had high-risk cytogenetic aberrations (deletion of 17p13 or 11q22-q23).
+Results: The overall response rate was 80% and 25% for untreated and previously treated patients, respectively. While thalidomide effectively reduced the number of CLL cells, the number of CD3 lymphocytes showed no significant change, but the number of CD4+CD25hiFOXP3+ T-regulatory cells was significantly decreased. Gene expression profiling revealed a thalidomide induced signature containing both targets known to play a role in immunomodulatory drug action as well as novel candidate genes.
+Conclusions: Combined thalidomide/fludarabine therapy demonstrated efficacy in high-risk CLL patients. Furthermore, our study provides novel biological insights into thalidomide effect, which might act by enhancing apoptosis of CLL cells and reducing Tregs, thereby enabling T-cell dependent anti-tumor effect.","Patients (""preTHAL"") received thalidomide (100mg p.o./day) starting at day 0 and at day 7 Fludarabine therapy was added to the therapy. To evaluate the in-vivo influence of thalidomide on the transcriptome in CLL, paired GEP was performed in 20 cases at treatment start at day 0 (preTHAL) and prior to fludarabine treatment at day 7 (postTHAL) using HumanGenome U133 Plus2.0 Arrays according to the manufacturer's recommendations (Affymetrix; RNA was isolated from peripheral blood samples enriched for leukemic cells by Ficoll-density gradient centrifugation, percentage of leukemic cells > 90%). Fluorescence ratios were evaluated by both the GCOS software and normalized by applying the RMA algorithm using the BRB Array Tools software.",,40,GPL570,0
+GSE4475,93,2.0,,2.0,13.0,0.0,A Biologic Definition of Burkitt's Lymphoma from Transcriptional and Genomic Profiling,"The distinction between the Burkitt lymphoma and diffuse large B-cell lymphoma is imprecise using current diagnostic criteria. We applied transcriptional and genomic profiling to molecularly define Burkitt lymphoma. Gene expression profiling employing Affymetrix GeneChips (U133A) was performed in 220 mature aggressive B-cell lymphomas, including a core group of eight Burkitt lymphomas, which fulfilled all diagnostic criteria of the WHO classification. A molecular signature of Burkitt lymphoma was generated. Chromosomal abnormalities were detected by interphase fluorescence in-situ hybridization and array comparative genomic hybridization. The molecular Burkitt lymphoma signature identified 44 cases. Fifteen of these cases lacked a morphology typical for Burkitt/Burkitt-like lymphoma. The vast majority (88%) of the 176 lymphomas without the molecular Burkitt lymphoma signature represented diffuse large B-cell lymphomas. In 20% of these cases a MYC break was detectable which was associated with complex chromosomal changes. Our molecular definition of Burkitt lymphoma sharpens and extends the spectrum of Burkitt lymphoma. In mature aggressive B-cell lymphomas without a Burkitt lymphoma signature, a chromosomal break in the MYC locus proved to be associated with adverse clinical outcome.
+Keywords: Gene expression",220 diffuse large B-cell lymphoma and Burkitt lymphoma samples hybridized to 221 HGU133A Affymetrix GeneChips,,221,GPL96,0
+GSE75132,38,2.0,,2.0,0.0,1.0,"TMEM45A, SERPINB5 and p16INK4A transcript levels are predictive for development of high-grade cervical lesions","Women persistently infected with human papillomavirus (HPV) type 16 are at high risk for development of cervical intraepithelial neoplasia grade 3 or cervical cancer (CIN3+). We aimed to identify biomarkers for progression to CIN3+ in women with persistent HPV16 infection. In this prospective study, 11,088 women aged 20–29 years were enrolled during 1991-1993, and re-invited for a second visit two years later. Cervical cytology samples obtained at both visits were tested for HPV DNA by Hybrid Capture 2 (HC2), and HC2-positive samples were genotyped by INNO-LiPA. The cohort was followed for up to 19 years via a national pathology register. To identify markers for progression to CIN3+, we performed microarray analysis on RNA extracted from cervical swabs of 30 women with persistent HPV16-infection and 11 HPV-negative women. After further validation, we found that high mRNA expression levels of TMEM45A, SERPINB5 and p16INK4a were associated with increased risk of CIN3+ in persistently HPV16-infected women.",We aimed at identifying genes differentially expressed in women with persistent HPV16 infection that either progressed to CIN3+ or not. As a test of principle we first compared HPV16 persistently infected women with HPV-negative women.,,41,GPL570,0
+GSE23640,7,1.7142857142857142,,1.7142857142857142,6.428571428571429,2.0,Gene-expression profile of breast cancer cell lines and sorted breast cancer epithelial cells,"Most of the breast cancer samples used in clinical research contain multiple cell types other than epithelial cells alone. The non-epithelial cell types have have a substantial effect on the gene expression-profile, which is used to define molecular subtypes of the tumours. The purpose of this data set is to retrieve gene-expression profile within tumour epithelial cells. We collected 9 breast cancer epithelial cell lines and 5 tumour sampes from which epithelial cells were sorted and enriched using BerEp4 antibody coated beads. We profiled the mRNA expression level of these samples and classified probe sets into epithelial genes which were those genes with present calls in at least 50% of the samples. Then we derived an 23-gene signature based on only the epithelial genes to stratify breast cancer.",Gene-expression profile analysis of 9 breast cancer epithelial cell lines and 5 tumour epithelium samples purified using BerEp4 antibody coated beads.,,14,GPL570,0
+GSE33377,41,1.0,,1.0,0.0,1.0,Expression profiling of rheumatoid arthritis patients treated with anti-TNF,Expression profiles of anti-TNF responders were compared to profiles of anti-TNF non-responders in order to identify an expression signature for anti-TNF response,In total 42 patients were treated with anti-TNF. RNA was isoloated from white blood cells and anti-TNF responders (n=18) were compared to nonresponders (n=24) regarding expression profiles,,42,GPL5175,0
+GSE40020,19,1.0,,1.0,3.0,1.0,Gene expression characterization of HPV positive head and neck cancer to predict response to Chemoradiation,"Background: Human papillomavirus has been shown to have a causal role in the development of head and neck squamous cell carcinoma and represents a distinct and well-defined pathology. While HPV-positive HNSCC is associated with a better response to treatment and prognosis, a subset of patients do not respond favorably to current standard of care thus suffering unnecessary morbidity and delay to receive effective therapy.","HPV-positive head and neck squamous cell carcinoma (HNSCC) has a good prognosis with a large percentage of patients responding to therapy. However, a certain percentage of patients do not respond. Gene expression data from Affymetrix Human Exon 1.0ST microarrays was utilized to compare patients that responded to therapy with those that did not respond.",,19,GPL5175,0
+GSE92697,26,1.0,,1.0,3.0,1.0,caArray_vince-00013: Integrated Genomics and Transcriptomic Analyses of Ductal Carcinoma In situ of the Breast,"Purpose: To gain insight into genomic and trancriptomic subtypes of ductal carcinomas in situ of the breast (DCIS).
+Results: Thirty-two DCIS exhibited a luminal phenotype; 21were ERBB2 positive, and 4 were ERBB2/estrogen receptor (ER) negativewith1harboring a bona fide basal-like phenotype.Based on a CGHanalysis, genomic types were identified in this series of DCISwith the 1q gain/16q loss combination observed in 3 luminal DCIS, themixed amplifier pattern including all ERBB2,12 luminal and 1ERBB2/ER- DCIS, and the complex copy number alteration profile encompassing 14 luminal and 1ERBB2/ER- DCIS. Eight cases (8 of 57; 14%) presented aTP53 mutation, all being amplifiers. Unsupervised analysis of gene expression profiles of 26 of the 57 DCIS showed that luminal and ERBB2-amplified, ER-negative cases clustered separately.We further investigated the effect of high and low copy number changes on gene expression. Strikingly, amplicons but also low copy number changes especially on 1q, 8q, and 16q in DCIS regulated the expression of a subset of genes in a very similar way to that recently described in invasive ductal carcinomas.
+Conclusions: These combined approaches show that the molecular heterogeneity of breast ductal carcinomas exists already in in situ lesions and further indicate that DCIS and invasive ductal carcinomas share genomic alterations with a similar effect on  gene expression profile.","Experimental Design: We did a combined phenotypic and genomic analysis of a series of 57 DCIS integrated with gene expression profile analysis for 26 of the 57 cases.
+vince-00013
+Assay Type: Gene Expression
+Provider: Affymetrix
+Array Designs: HG-U133A
+Organism: Homo sapiens (ncbitax)
+Tissue Sites: Breast, Breast
+Material Types: cDNA, genomic_DNA, total_RNA
+Cell Types: Ductal carcinoma in situ
+Disease States: Breast Carcinoma",,26,GPL96,0
+GSE22152,24,1.0,,1.0,5.0,0.0,Gene expression data of glucocorticoid resistant and sensitive acute lymphoblastic leukemia cell lines,"Gene expression data of glucocorticoid resistant and sensitive acute lymphoblastic leukemia cell lines for the article: Expression, regulation and function of phosphofructo-kinase/fructose-biphosphatases  (PFKFBs) in glucocorticoid-induced apoptosis of acute lymphoblastic leukemia cells
+
+Glucocorticoids (GCs) cause apoptosis and cell cycle arrest in lymphoid cells and constitute a central component in the therapy of lymphoid malignancies, most notably childhood acute lymphoblastic leukemia (ALL). PFKFB2 (6-phosphofructo-2-kinase/fructose-2,6-biphosphatase-2), a kinase controlling glucose metabolism, was identified by us previously as GC response gene in expression profiling analyses performed in children with ALL during initial systemic GC mono-therapy. Since deregulation of glucose metabolism has been implicated in apoptosis induction, this gene and its relatives PFKFB1, 3, and 4 were further analyzed. Expression analyses in additional ALL children, non-leukemic individuals and leukemic cell lines confirmed frequent PFKFB2 induction by GC in most systems sensitive to GC-induced apoptosis, particularly in T-ALL cells. The 3 other family members, in contrast, were not or weakly expressed (PFKFB1 and 4) or not induced by GC (PFKFB3). Conditional PFKFB2 over-expression in the CCRF-CEM T-ALL in vitro model revealed that its 2 splice variants (15A and 15B) did not have any detectable effect on survival or cell cycle progression. Moreover, neither PFKFB2 splice variant significantly affected sensitivity to, or kinetics of, GC-induced apoptosis. Our data suggest that, at least in the model system investigated, PFKFB2 is not an essential upstream regulator of the anti-leukemic effects of GC.
+Generation of the GC sensitive and resistant clones is described in Parson et al. FASEB J 2005 (Pubmed id 15637111). In brief GC sensitive clones were generated by limiting dilution subcloning from the GC sensitive T-ALL cell line CCRF-CEM-C7H2. To generate GC resistant clones the CCRF-CEM-C7H2 cell line was clutured in the presence of 10E-7 M dexametasone.",Gene expression profiles of glucocorticoid (GC) resistant and sensitive T-ALL cells during GC treatment and corresponding control samples (cells treated with carrier control). GC induced regulation of PFKFB2 was determined in the various cell lines based on the expression intensities of the corresponding probe sets in GC treated and control samples.,,24,GPL570,0
